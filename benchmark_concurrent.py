@@ -30,11 +30,12 @@ def count_tokens(text):
     tokens = tokenizer.encode(text)
     return len(tokens)
     
-# Takes a prompt and an optional max_tokens parameter, 
-# and returns a dictionary with the results of a single inference request.
+
 def single_inference(prompt, max_tokens=100): 
     """
     This is the core function that performs a single inference request to the SGLang server.
+    Takes a prompt and an optional max_tokens parameter, 
+    and returns a dictionary with the results of a single inference request.
     """
     # Record the start time
     start_time = time.time() 
@@ -82,11 +83,17 @@ def single_inference(prompt, max_tokens=100):
     }
 
 def concurrent_benchmark(prompt, concurrency, max_tokens=100):
+    """
+    This function run multiple single_inference calls concurrently to simulate a higher load on the server.
+    """
     results = []
     
     def worker():
         return single_inference(prompt, max_tokens)
     
+    # Takes a prompt, the level of concurrency, and an optional max_tokens as input
+    # Uses ThreadPoolExecutor to run the worker function concurrently
+    # Returns a list of results from the worker function
     with ThreadPoolExecutor(max_workers=concurrency) as executor:
         futures = [executor.submit(worker) for _ in range(num_runs)]
         for future in futures:
