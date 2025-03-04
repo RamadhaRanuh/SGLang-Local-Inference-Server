@@ -4,12 +4,13 @@ import time
 import statistics
 
 
-port = 000
+port = 30045
 url = f"http://localhost:{port}/v1/chat/completions"
 model_name = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
 num_runs = 5
 prompt = "Explain quantum computing in simple terms."
 max_tokens = 100
+
 
 def run_benchmark():
     results = []
@@ -34,7 +35,7 @@ def run_benchmark():
         # output_tokens = len(generated_text.split())
         output_tokens = result["usage"]["completion_tokens"]
 
-        elapsed_time = end_time = start_time
+        elapsed_time = end_time - start_time
         tokens_per_second = output_tokens / elapsed_time
 
         print(f" Time: {elapsed_time:.2f}s, Tokens: {output_tokens}, Tokens/s: {tokens_per_second:.2f}")
