@@ -41,3 +41,6 @@ if __name__ == "__main__":
     #assistant_begin()
     #text_qa("What is the capital of France?")
     #assistant_end()
+
+
+
