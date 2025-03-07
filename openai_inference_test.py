@@ -6,7 +6,7 @@ def chat_completions():
     client = openai.Client(base_url=f"http://127.0.0.1:{port}/v1", api_key="None")
 
     response = client.chat.completions.create(
-    model="TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+    model="meta-llama/Meta-Llama-3.1-8B-Instruct",
     messages=[
         {
             "role": "system",
@@ -113,6 +113,6 @@ print_highlight(f"Batch job created with ID: {batch_response.id}")
 
 
 if __name__ == "__main__":
-    # chat_completions()
-    completions()
+    chat_completions()
+    # completions()
     #batches()

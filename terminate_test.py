@@ -14,7 +14,7 @@ def find_process_by_port(port):
     return None
 
 # The port number your SGLang server is using
-port = 30046  # replace with your actual port number
+port = 35526  # replace with your actual port number
 
 process = find_process_by_port(port)
 if process:
