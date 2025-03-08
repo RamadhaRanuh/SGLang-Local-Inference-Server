@@ -1,3 +1,3 @@
 # python -m sglang.bench_one_batch --model-path TinyLlama/TinyLlama-1.1B-Chat-v1.0 --batch 32 --input-len 256 --output-len 32
 # python -m sglang.bench_one_batch --model-path TinyLlama/TinyLlama-1.1B-Chat-v1.0 --quantization fp8 --batch 32 --input-len 256 --output-len 32 
-#python3 -m sglang.bench_serving --backend sglang --base-url http://localhost:30092 --max-concurrency 110 --dataset-name random --num-prompts 200 --random-input-len 1349 --random-output-len 79
+#python3 -m sglang.bench_serving --backend sglang --base-url http://localhost:30092 --max-concurrency 110 --dataset-name random --num-prompts 200 --random-input-len 1349 --random-output-len 79a
