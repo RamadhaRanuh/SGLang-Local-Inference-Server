@@ -1,5 +1,6 @@
 import psutil
 import os
+import socket
 import signal
 
 def find_process_by_port(port):
@@ -13,8 +14,8 @@ def find_process_by_port(port):
             pass
     return None
 
-# The port number your SGLang server is using
-port = 30046  # replace with your actual port number
+# The port number your SGLang server is
+port = 30050   # replace with your actual port number
 
 process = find_process_by_port(port)
 if process:

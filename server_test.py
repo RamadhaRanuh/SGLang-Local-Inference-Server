@@ -13,7 +13,7 @@ else:
 server_process, port = launch_server_cmd(
     """
 python -m sglang.launch_server --model-path TinyLlama/TinyLlama-1.1B-Chat-v1.0 \
- --host 0.0.0.0 
+ --port 8000 --host 0.0.0.0 
 """
 )
 
