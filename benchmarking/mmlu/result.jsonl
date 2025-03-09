@@ -1,0 +1,1 @@
+{"task": "mmlu", "backend": "srt", "num_gpus": 1, "latency": 9.875, "accuracy": 0.231, "num_requests": 1369, "other": {"nsub": 10, "parallel": 64}}
