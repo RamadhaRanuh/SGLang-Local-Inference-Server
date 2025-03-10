@@ -1,2 +1,6 @@
 {"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 5.38, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
 {"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 3.375, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 2.731, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 2.969, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 3.539, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 2.884, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}

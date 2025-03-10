@@ -330,10 +330,10 @@ Choices:
   1: she is shown in various different locations and gets extremely close to a wall.
   2: , she is shown making multiple moans and sprays some kind of liquid down her face before hanging up.
   3: , she takes some spray and it makes her skin extremely oily and she continues to talk until the video is over.
-Model selected: , she takes some spray and it makes her skin extremely oily and she continues to talk until the video is over.
-Model prediction index: 3
+Model selected: she is shown in various different locations and gets extremely close to a wall.
+Model prediction index: 1
 Correct answer index: 3
-Is correct: True
+Is correct: False
 --------------------------------------------------
 
 Example 27:
@@ -395,8 +395,8 @@ Choices:
   1: laughs at the children dribbling water.
   2: comes back and talks to the boys.
   3: gets some food out of the fridge and they continue playing together.
-Model selected: comes back and talks to the boys.
-Model prediction index: 2
+Model selected: gets some food out of the fridge and they continue playing together.
+Model prediction index: 3
 Correct answer index: 1
 Is correct: False
 --------------------------------------------------
@@ -434,10 +434,10 @@ Choices:
   1: walks off the porch and goes back inside.
   2: starts mowing his lawn casually going over all the grass.
   3: does this multiple times until a pale orange moon appears overhead.
-Model selected: walks off the porch and goes back inside.
-Model prediction index: 1
+Model selected: starts mowing his lawn casually going over all the grass.
+Model prediction index: 2
 Correct answer index: 2
-Is correct: False
+Is correct: True
 --------------------------------------------------
 
 Example 35:
@@ -460,10 +460,10 @@ Choices:
   1: is very neat and clean and very active under the circumstances.
   2: gets mowed quicker by the dog.
   3: eventually looks happy on the outside and appears to be going pretty happily.
-Model selected: gets mowed quicker by the dog.
-Model prediction index: 2
+Model selected: is slowly starting to look really really nice, once he is completely finished the yard looks great, nice and smooth.
+Model prediction index: 0
 Correct answer index: 0
-Is correct: False
+Is correct: True
 --------------------------------------------------
 
 Example 37:
@@ -499,10 +499,10 @@ Choices:
   1: see a black screen with the credits.
   2: see an illustration on how to add the wash using a brush.
   3: then see a replay then the person putting the face wash on.
-Model selected: see an illustration on how to add the wash using a brush.
-Model prediction index: 2
+Model selected: then see a replay then the person putting the face wash on.
+Model prediction index: 3
 Correct answer index: 2
-Is correct: True
+Is correct: False
 --------------------------------------------------
 
 Example 40:
@@ -655,8 +655,8 @@ Choices:
   1: , the person removes the heel heel from the shoe and polish.
   2: , the person grabs polish paste and water to polish the shoe.
   3: , a person polish the fingers, then the person puts a black polish.
-Model selected: , the person removes the heel heel from the shoe and polish.
-Model prediction index: 1
+Model selected: , the person remove the wrapping paper to expose a shoe.
+Model prediction index: 0
 Correct answer index: 2
 Is correct: False
 --------------------------------------------------
@@ -694,10 +694,10 @@ Choices:
   1: and woman dance around together on the stage.
   2: dance on the ropes attached to the stage.
   3: plays up front of a band with a harmonica.
-Model selected: plays up front of a band with a harmonica.
-Model prediction index: 3
+Model selected: plays harp and flute while two other people play instruments next to him.
+Model prediction index: 0
 Correct answer index: 3
-Is correct: True
+Is correct: False
 --------------------------------------------------
 
 Example 55:
@@ -707,8 +707,8 @@ Choices:
   1: plays a spirited solo during the song.
   2: plays his guitar while moving his body around in front of the band.
   3: sings with the band, twirling his violin as he walks.
-Model selected: sings with the band, twirling his violin as he walks.
-Model prediction index: 3
+Model selected: plays his guitar while moving his body around in front of the band.
+Model prediction index: 2
 Correct answer index: 1
 Is correct: False
 --------------------------------------------------
@@ -785,10 +785,10 @@ Choices:
   1: demonstrates tricks that can be done while performing this activity.
   2: in the small blue boat holds a fish in his hands and then holds the fish while talking about the technique needed to perform this activity.
   3: is omic on the water as he's riding the speedo on the aerobic machine still pointing down at the water.
-Model selected: demonstrates tricks that can be done while performing this activity.
-Model prediction index: 1
+Model selected: in the small blue boat holds a fish in his hands and then holds the fish while talking about the technique needed to perform this activity.
+Model prediction index: 2
 Correct answer index: 1
-Is correct: True
+Is correct: False
 --------------------------------------------------
 
 Example 62:
@@ -824,10 +824,10 @@ Choices:
   1: finishes playing and remains seated.
   2: jumps over a barrier and lands on the sandy beach.
   3: plays in a house while the woman looks on.
-Model selected: jumps over a barrier and lands on the sandy beach.
-Model prediction index: 2
+Model selected: finishes playing and remains seated.
+Model prediction index: 1
 Correct answer index: 1
-Is correct: False
+Is correct: True
 --------------------------------------------------
 
 Example 65:
@@ -837,10 +837,10 @@ Choices:
   1: uses a large block cutter to remove smaller blocks until he has the whole of the window covered.
   2: puts water on a hose and begins cleaning the windows.
   3: goes up and down the windows at a rapid pace and continues filming himself through the glass.
-Model selected: puts water on a hose and begins cleaning the windows.
-Model prediction index: 2
+Model selected: goes up and down the windows at a rapid pace and continues filming himself through the glass.
+Model prediction index: 3
 Correct answer index: 3
-Is correct: False
+Is correct: True
 --------------------------------------------------
 
 Example 66:
@@ -850,10 +850,10 @@ Choices:
   1: takes his clothes off and hangs them up before throwing his plaid shirt into the laundry.
   2: finishes the glass in record time and turns off the camera.
   3: spins around to show the different angles of the board and shows pictures of the house in the end.
-Model selected: finishes the glass in record time and turns off the camera.
-Model prediction index: 2
+Model selected: spins around to show the different angles of the board and shows pictures of the house in the end.
+Model prediction index: 3
 Correct answer index: 2
-Is correct: True
+Is correct: False
 --------------------------------------------------
 
 Example 67:
@@ -915,8 +915,8 @@ Choices:
   1: is upside down so everyone else can't see the object.
   2: pans around people watching while he hits the pinata and a little boy is seen clapping behind him.
   3: zooms in on the boy's head and he looks at the pinata person in the background.
-Model selected: zooms in on the pinata and then the girl.
-Model prediction index: 0
+Model selected: zooms in on the boy's head and he looks at the pinata person in the background.
+Model prediction index: 3
 Correct answer index: 2
 Is correct: False
 --------------------------------------------------
@@ -928,8 +928,8 @@ Choices:
   1: continues playing the violin and beginning to intermittently move the sticks up and down.
   2: smiles into the camera while playing and continues playing the song while several people bend down to tip her and walk around her.
   3: finishes and walks off, leaving the violin lying on the ground.
-Model selected: finishes and walks off, leaving the violin lying on the ground.
-Model prediction index: 3
+Model selected: continues to play violin while people pass by her.
+Model prediction index: 0
 Correct answer index: 2
 Is correct: False
 --------------------------------------------------
@@ -967,10 +967,10 @@ Choices:
   1: then throws the pin while others watch on the sides.
   2: spins around several times and throws the stick.
   3: misses the pinata and hits a person behind him, shown again in slow motion.
-Model selected: spins around several times and throws the stick.
-Model prediction index: 2
+Model selected: misses the pinata and hits a person behind him, shown again in slow motion.
+Model prediction index: 3
 Correct answer index: 3
-Is correct: False
+Is correct: True
 --------------------------------------------------
 
 Example 76:
@@ -980,10 +980,10 @@ Choices:
   1: peels the old clothing off the piece and replaces it with dry material.
   2: sets the iron aside and flips the clothing.
   3: wraps the garment on top of the blouse, then irons it.
-Model selected: sets the iron aside and flips the clothing.
-Model prediction index: 2
+Model selected: wets the garment and scrubs it with a cloth.
+Model prediction index: 0
 Correct answer index: 2
-Is correct: True
+Is correct: False
 --------------------------------------------------
 
 Example 77:
@@ -1045,8 +1045,8 @@ Choices:
   1: takes the cat to the other room.
   2: stands up and walks down the sidewalk.
   3: plays with the cat rocking it back and forth.
-Model selected: sits back down on the chair.
-Model prediction index: 0
+Model selected: takes the cat to the other room.
+Model prediction index: 1
 Correct answer index: 3
 Is correct: False
 --------------------------------------------------
@@ -1110,8 +1110,8 @@ Choices:
   1: see the building behind the car.
   2: zoom in on the cabin.
   3: see the mans silver car gliding by in the background.
-Model selected: see the old man's garage and what looks like a boat in the water.
-Model prediction index: 0
+Model selected: see the mans silver car gliding by in the background.
+Model prediction index: 3
 Correct answer index: 1
 Is correct: False
 --------------------------------------------------
@@ -1123,10 +1123,10 @@ Choices:
   1: opens the doors on his car and gets in.
   2: finishes and slides out of the car.
   3: puts up the camera.
-Model selected: finishes and turns off the wipers.
-Model prediction index: 0
+Model selected: opens the doors on his car and gets in.
+Model prediction index: 1
 Correct answer index: 1
-Is correct: False
+Is correct: True
 --------------------------------------------------
 
 Example 88:
@@ -1188,10 +1188,10 @@ Choices:
   1: stretches in front of it.
   2: is shown inside while a machine is working.
   3: is mowing the yard next to the bushes.
-Model selected: stretches in front of it.
-Model prediction index: 1
+Model selected: is mowing the yard next to the bushes.
+Model prediction index: 3
 Correct answer index: 3
-Is correct: False
+Is correct: True
 --------------------------------------------------
 
 Example 93:
@@ -1201,10 +1201,10 @@ Choices:
   1: then explains the skates movement and how to use the breaks that is in the back of the skates.
   2: then puts lotion in both of her hands and rubs them along your knees while the instructor washes them.
   3: shows how to harness and strap your weight on properly and she moves away from the mounting as she reaches for her left knee.
-Model selected: then puts lotion in both of her hands and rubs them along your knees while the instructor washes them.
-Model prediction index: 2
+Model selected: then explains the skates movement and how to use the breaks that is in the back of the skates.
+Model prediction index: 1
 Correct answer index: 1
-Is correct: False
+Is correct: True
 --------------------------------------------------
 
 Example 94:
@@ -1279,8 +1279,8 @@ Choices:
   1: turn the knife to sharpen the other side and then wipe it with paper towel.
   2: stops sharpening the knife and draws on the stone again.
   3: down retracts from the knife and starts sharpening the knife back up again.
-Model selected: stops sharpening the knife and draws on the stone again.
-Model prediction index: 2
+Model selected: continues sharpening the knife and standing on the middle of the stone.
+Model prediction index: 0
 Correct answer index: 1
 Is correct: False
 --------------------------------------------------
@@ -1292,10 +1292,10 @@ Choices:
   1: continues to speak and leads into more clips of him playing tennis.
   2: pulls the ball up on the court while still speaking to the camera.
   3: continues speaking as more shots are shown of the boy playing basketball.
-Model selected: pulls the ball up on the court while still speaking to the camera.
-Model prediction index: 2
+Model selected: continues speaking as more shots are shown of the boy playing basketball.
+Model prediction index: 3
 Correct answer index: 3
-Is correct: False
+Is correct: True
 --------------------------------------------------
 
 Example 101:
@@ -1357,10 +1357,10 @@ Choices:
   1: are standing wearing suits and watch the men in the ring.
   2: gets in front of them tugging and pushing the man.
   3: are wrestling at the ring as people are seeing them.
-Model selected: are standing wearing suits and watch the men in the ring.
-Model prediction index: 1
+Model selected: came in and started talking to the reporter.
+Model prediction index: 0
 Correct answer index: 1
-Is correct: True
+Is correct: False
 --------------------------------------------------
 
 Example 106:
@@ -1474,10 +1474,10 @@ Choices:
   1: pans between the playing couples.
   2: cuts to people riding horses on a dirt track.
   3: returns to the people riding the donkeys.
-Model selected: cuts to people riding horses on a dirt track.
-Model prediction index: 2
+Model selected: returns to the people riding the donkeys.
+Model prediction index: 3
 Correct answer index: 3
-Is correct: False
+Is correct: True
 --------------------------------------------------
 
 Example 115:
@@ -1513,10 +1513,10 @@ Choices:
   1: is in a fast moving boat and he continues to video the surfers who are still riding the wave but now they are standing up.
   2: catches one of the surfers as he slips into the goop.
   3: is surfing as fast as he can on the water as the waves crescendo.
-Model selected: is surfing as fast as he can on the water as the waves crescendo.
-Model prediction index: 3
+Model selected: is in a fast moving boat and he continues to video the surfers who are still riding the wave but now they are standing up.
+Model prediction index: 1
 Correct answer index: 1
-Is correct: False
+Is correct: True
 --------------------------------------------------
 
 Example 118:
@@ -1604,8 +1604,8 @@ Choices:
   1: is mopping a floor while blindfolded.
   2: is standing next to a man scrubbing the floor.
   3: walks behind him and sets the mop down.
-Model selected: walks behind him and sets the mop down.
-Model prediction index: 3
+Model selected: is standing next to a man scrubbing the floor.
+Model prediction index: 2
 Correct answer index: 0
 Is correct: False
 --------------------------------------------------
@@ -1695,8 +1695,8 @@ Choices:
   1: is shown running and the man continues speaking about fitness tips.
   2: is now seen riding beside the cyclist and taking pictures as well.
   3: is then seen riding in on a horse with another man and they start riding together across the track.
-Model selected: is now seen riding beside the cyclist and taking pictures as well.
-Model prediction index: 2
+Model selected: is then seen riding in on a horse with another man and they start riding together across the track.
+Model prediction index: 3
 Correct answer index: 1
 Is correct: False
 --------------------------------------------------
@@ -1721,10 +1721,10 @@ Choices:
   1: is walking through a huge forest and ends up climbing up the aplus over a fence and crashing into other person who subsequently falls too.
   2: triumphant throws up his arms and walks off alone.
   3: is shown again multiple times.
-Model selected: is crawling across a finish line while other runners are running through the finish line.
-Model prediction index: 0
+Model selected: is shown again multiple times.
+Model prediction index: 3
 Correct answer index: 0
-Is correct: True
+Is correct: False
 --------------------------------------------------
 
 Example 134:
@@ -1799,10 +1799,10 @@ Choices:
   1: films the men drinking beers through a can and eat.
   2: then weld and a bartender gives an alcoholic beverage to the worker.
   3: gives a kiss to a man and then look at a table a woman is using, then a woman shows something white on an tin.
-Model selected: then weld and a bartender gives an alcoholic beverage to the worker.
-Model prediction index: 2
+Model selected: talks on front a microphone and people continue singing and showing beer.
+Model prediction index: 0
 Correct answer index: 0
-Is correct: False
+Is correct: True
 --------------------------------------------------
 
 Example 140:
@@ -1812,10 +1812,10 @@ Choices:
   1: , people play soccer, ripping each other's hair.
   2: , people sit and play foosball and are shown during the show.
   3: , two men fight sand with an accordion while a man help him pretend.
-Model selected: , people are again singing, drinking and dancing outdoors.
-Model prediction index: 0
+Model selected: , people sit and play foosball and are shown during the show.
+Model prediction index: 2
 Correct answer index: 0
-Is correct: True
+Is correct: False
 --------------------------------------------------
 
 Example 141:
@@ -1877,10 +1877,10 @@ Choices:
   1: , a man sits and maneuver the canoe while other men sit.
   2: , the men slides the canoe forward using the oars to advance.
   3: , a man performs different zumba moves in different circumstances.
-Model selected: , one man misses the paddle while paddling.
-Model prediction index: 0
+Model selected: , the men slides the canoe forward using the oars to advance.
+Model prediction index: 2
 Correct answer index: 2
-Is correct: False
+Is correct: True
 --------------------------------------------------
 
 Example 146:
@@ -1929,10 +1929,10 @@ Choices:
   1: stop at the bottom and talk.
   2: are holding on to ladders.
   3: comes to a stop on a hill of snow.
-Model selected: are skiing down a snowy hill.
-Model prediction index: 0
+Model selected: stop at the bottom and talk.
+Model prediction index: 1
 Correct answer index: 1
-Is correct: False
+Is correct: True
 --------------------------------------------------
 
 Example 150:
@@ -2007,8 +2007,8 @@ Choices:
   1: stops playing and drops the violin.
   2: sits down and plays the violin.
   3: taps his shoe while playing the violin.
-Model selected: resumes playing the violin.
-Model prediction index: 0
+Model selected: stops playing and drops the violin.
+Model prediction index: 1
 Correct answer index: 2
 Is correct: False
 --------------------------------------------------
@@ -2020,8 +2020,8 @@ Choices:
   1: is flying through the sky.
   2: runs up and grabs the guitar, then begins strumming.
   3: is strumming an electric guitar.
-Model selected: runs up and grabs the guitar, then begins strumming.
-Model prediction index: 2
+Model selected: is strumming an electric guitar.
+Model prediction index: 3
 Correct answer index: 0
 Is correct: False
 --------------------------------------------------
@@ -2215,10 +2215,10 @@ Choices:
   1: stops playing the violin and starts to sit up.
   2: takes a cloth in her hand and prints the sheet music.
   3: explains the song she is about to play.
-Model selected: adjusts the violin under her chin as she reads the music.
-Model prediction index: 0
+Model selected: explains the song she is about to play.
+Model prediction index: 3
 Correct answer index: 0
-Is correct: True
+Is correct: False
 --------------------------------------------------
 
 Example 172:
@@ -2241,10 +2241,10 @@ Choices:
   1: are shown on a hand.
   2: are being put into elongated pupil holes.
   3: are made and put in.
-Model selected: are made and put in.
-Model prediction index: 3
+Model selected: are shown on a hand.
+Model prediction index: 1
 Correct answer index: 1
-Is correct: False
+Is correct: True
 --------------------------------------------------
 
 Example 174:
@@ -2280,10 +2280,10 @@ Choices:
   1: departs from the camera frame, holding a spoon and shakes it in the air.
   2: lifts the spoon without touching the liquid on the spoon.
   3: eats with gusto while dancing and smiling to the camera.
-Model selected: inserts her spoon into her ice cream container on the table.
-Model prediction index: 0
+Model selected: departs from the camera frame, holding a spoon and shakes it in the air.
+Model prediction index: 1
 Correct answer index: 0
-Is correct: True
+Is correct: False
 --------------------------------------------------
 
 Example 177:
@@ -2345,10 +2345,10 @@ Choices:
   1: splashes into the hole bigger and bigger as the others continue to pull the string one by one.
   2: flops around and the man grabs the fish and holds him up.
   3: crawls out and the man catches it.
-Model selected: crawls out and the man catches it.
-Model prediction index: 3
+Model selected: flops around and the man grabs the fish and holds him up.
+Model prediction index: 2
 Correct answer index: 2
-Is correct: False
+Is correct: True
 --------------------------------------------------
 
 Example 182:
@@ -2371,10 +2371,10 @@ Choices:
   1: person wins the game knocking the other one into the water.
   2: person keeps score and pretends to make a goal.
   3: jumps through the net and makes it all the way to the other side.
-Model selected: jumps through the net and makes it all the way to the other side.
-Model prediction index: 3
+Model selected: throws the ball into the net and causes the people on the side to jump and cheer.
+Model prediction index: 0
 Correct answer index: 0
-Is correct: False
+Is correct: True
 --------------------------------------------------
 
 Example 184:
@@ -2423,10 +2423,10 @@ Choices:
   1: lands on the road where construction workers are spraying it down, and a boy with sunglasses runs towards the skateboard like a robot.
   2: is riding on the road on its belly.
   3: is two of the boys skateboard together.
-Model selected: is riding on the road on its belly.
-Model prediction index: 2
+Model selected: leans on a tree.
+Model prediction index: 0
 Correct answer index: 0
-Is correct: False
+Is correct: True
 --------------------------------------------------
 
 Example 188:
@@ -2527,10 +2527,10 @@ Choices:
   1: see a guy hold a blue frisbee in the air and tell that the dog has a pink frisbee and we see its pink feet.
   2: see jesse close up in the camera.
   3: see a violinist doing a piano clip.
-Model selected: see a guy hold a blue frisbee in the air and tell that the dog has a pink frisbee and we see its pink feet.
-Model prediction index: 1
+Model selected: see jesse close up in the camera.
+Model prediction index: 2
 Correct answer index: 2
-Is correct: False
+Is correct: True
 --------------------------------------------------
 
 Example 196:
@@ -2579,10 +2579,10 @@ Choices:
   1: creates a large puddle of water and a high rush of water around him as he heads back and forth back and forth.
   2: moves all around while there is a crowd watching.
   3: talks about how to properly ride an object while another man climbs up on the back of him.
-Model selected: creates a large puddle of water and a high rush of water around him as he heads back and forth back and forth.
-Model prediction index: 1
+Model selected: takes turns quickly, mowing the lawn.
+Model prediction index: 0
 Correct answer index: 0
-Is correct: False
+Is correct: True
 --------------------------------------------------
 
 Example 200:
