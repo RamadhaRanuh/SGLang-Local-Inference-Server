@@ -134,6 +134,31 @@ def main(args):
     # Compute accuracy
     cors = [pred == label for pred, label in zip(preds, labels)]
 
+    # Save detailed outputs to file
+    questions = [arg["question"] for arg in arguments]
+    os.makedirs(args.save_dir, exist_ok=True)
+    output_file = os.path.join(args.save_dir, f"model_outputs_{args.backend.replace('/', '_')}.txt")
+    
+    with open(output_file, "w") as f:
+        pt = 0
+        for subject, num_qs in zip(subjects[: args.nsub], num_questions):
+            f.write(f"Subject: {subject}\n")
+            f.write("=" * 50 + "\n\n")
+            
+            for i in range(num_qs):
+                idx = pt + i
+                f.write(f"Question {idx+1}:\n")
+                f.write(questions[idx] + "\n")
+                f.write(f"Model output: {states[idx]['answer']}\n")
+                f.write(f"Prediction: {preds[idx]}\n")
+                f.write(f"Correct answer: {labels[idx]}\n")
+                f.write(f"Is correct: {cors[idx]}\n")
+                f.write("-" * 50 + "\n\n")
+            
+            pt += num_qs
+    
+    print(f"Detailed outputs saved to {output_file}")
+    
     pt = 0
     for subject, num_qs in zip(subjects[: args.nsub], num_questions):
         print(
