@@ -1,3 +1,5 @@
 {"task": "llm_judge", "backend": "srt", "num_gpus": 1, "latency": 41.882, "num_requests": 16, "other": {"num_questions": 16, "parallel": 1}}
 {"task": "llm_judge", "backend": "srt", "num_gpus": 1, "latency": 14.208, "num_requests": 25, "other": {"num_questions": 25, "parallel": 8}}
 {"task": "llm_judge", "backend": "srt", "num_gpus": 1, "latency": 10.812, "num_requests": 25, "other": {"num_questions": 25, "parallel": 8}}
+{"task": "llm_judge", "backend": "srt", "num_gpus": 1, "latency": 9.454, "num_requests": 25, "other": {"num_questions": 25, "parallel": 8}}
+{"task": "llm_judge", "backend": "srt", "num_gpus": 1, "latency": 8.356, "num_requests": 25, "other": {"num_questions": 25, "parallel": 8}}
