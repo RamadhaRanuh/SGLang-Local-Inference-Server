@@ -84,6 +84,23 @@ def main(args):
     print(f"Accuracy: {acc:.3f}")
 
     # Write results
+
+    with open(f"model_outputs_hellaswag_{args.backend}.txt", "w") as f:
+        for i in range(len(rets)):
+            f.write(f"Example {i+1}:\n")
+            f.write(f"Context: {questions[i]}\n")
+            f.write(f"Choices:\n")
+            for j, choice in enumerate(choices[i]):
+                f.write(f"  {j}: {choice}\n")
+            f.write(f"Model selected: {rets[i]['answer']}\n")
+            f.write(f"Model prediction index: {preds[i]}\n")
+            f.write(f"Correct answer index: {labels[i]}\n")
+            f.write(f"Is correct: {preds[i] == labels[i]}\n")
+            f.write("-" * 50 + "\n\n")
+
+    # Additional summary info
+    print(f"Results saved to: model_outputs_hellaswag_{args.backend}.txt")
+
     with open(args.result_file, "a") as fout:
         value = {
             "task": "hellaswag",

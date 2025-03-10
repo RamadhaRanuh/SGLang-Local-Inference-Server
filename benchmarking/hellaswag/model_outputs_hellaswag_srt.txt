@@ -1,0 +1,2600 @@
+Example 1:
+Context: Roof shingle removal: A man is sitting on a roof. he 
+Choices:
+  0: is using wrap to wrap a pair of skis.
+  1: is ripping level tiles off.
+  2: is holding a rubik's cube.
+  3: starts pulling up roofing on a roof.
+Model selected: starts pulling up roofing on a roof.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 2:
+Context: Clean and jerk: A lady walks to a barbell. She bends down and grabs the pole. the lady 
+Choices:
+  0: swings and lands in her arms.
+  1: pulls the barbell forward.
+  2: pulls a rope attached to the barbell.
+  3: stands and lifts the weight over her head.
+Model selected: stands and lifts the weight over her head.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 3:
+Context: Canoeing: Two women in a child are shown in a canoe while a man pulls the canoe while standing in the water, with other individuals visible in the background. the child and a different man 
+Choices:
+  0: are then shown paddling down a river in a boat while a woman talks.
+  1: are driving the canoe, they go down the river flowing side to side.
+  2: sit in a canoe while the man paddles.
+  3: walking go down the rapids, while the man in his helicopter almost falls and goes out of canoehood.
+Model selected: sit in a canoe while the man paddles.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 4:
+Context: High jump: A boy is running down a track. the boy 
+Choices:
+  0: runs into a car.
+  1: gets in a mat.
+  2: lifts his body above the height of a pole.
+  3: stands on his hands and springs.
+Model selected: lifts his body above the height of a pole.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 5:
+Context: High jump: The boy lifts his body above the height of a pole. The boy lands on his back on to a red mat. the boy 
+Choices:
+  0: turns his body around on the mat.
+  1: gets up from the mat.
+  2: continues to lift his body over the pole.
+  3: wiggles out of the mat.
+Model selected: gets up from the mat.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 6:
+Context: High jump: The boy lands on his back on to a red mat. The boy gets up from the mat. the boy 
+Choices:
+  0: starts doing spins.
+  1: celebrates by clapping and flexing both arms.
+  2: is dancing on the mat.
+  3: does jump jacks on his stick.
+Model selected: celebrates by clapping and flexing both arms.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 7:
+Context: Playing harmonica: A man is standing in front of a camera. He starts playing a harmonica for the camera. he 
+Choices:
+  0: begins to play the harmonica with his body while looking at the camera.
+  1: seems to be singing while playing the harmonica.
+  2: rocks back and forth to the music as he goes.
+  3: painted a fence in front of the camera.
+Model selected: rocks back and forth to the music as he goes.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 8:
+Context: Sumo: A cartoon animation video is shown with people wandering around and rockets being shot. two men 
+Choices:
+  0: fight robots of evil and ends with a to be continued.
+  1: are then shown in closeups shooting a shot put.
+  2: push a child in a speedboat in the water.
+  3: look in the cameraman's eye and smile.
+Model selected: fight robots of evil and ends with a to be continued.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 9:
+Context: Sharpening knives: A man is holding a pocket knife while sitting on some rocks in the wilderness. then he 
+Choices:
+  0: opens a can of oil put oil on the knife, and puts oil on a knife and press it through a can filled with oil then cuts several pieces from the sandwiches.
+  1: takes a small stone from the flowing river and smashes it on another stone.
+  2: uses the knife to shave his leg.
+  3: sand the rocks and tops them by using strong pressure.
+Model selected: takes a small stone from the flowing river and smashes it on another stone.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 10:
+Context: Sharpening knives: Then he takes a small stone from the flowing river and smashes it on another stone. He starts to crush the small stone to smaller pieces. he 
+Choices:
+  0: cuts the center stone in half and blow it on to make it bigger.
+  1: grind it hard to make the pieces smaller.
+  2: eventually brings it back into view and adds it to the smaller ones to make a small triangular shaped piece.
+  3: starts to party with them and throw the pieces by hand while they celebrate.
+Model selected: grind it hard to make the pieces smaller.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 11:
+Context: Sharpening knives: Then he takes a piece of bark and rubs the powered stone pieces onto it. The stone particles stick to the wet piece of wood. he 
+Choices:
+  0: uses a small brush to polish one of the stone pieces.
+  1: then uses a strip of sealing tape to seal the board and then smooths the bottom of the board.
+  2: walks towards the camera.
+  3: then takes the knife and sharpens it against the wood piece.
+Model selected: then takes the knife and sharpens it against the wood piece.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 12:
+Context: Sharpening knives: The stone particles stick to the wet piece of wood. He then takes the knife and sharpens it against the wood piece. he 
+Choices:
+  0: then cuts off the excess hair of the wood.
+  1: scrapes the wood with a broom in the cutting tool used in sharpening the instrument.
+  2: writes on the board again.
+  3: then notices a little black and green poisonous frog sitting next to him.
+Model selected: then notices a little black and green poisonous frog sitting next to him.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 13:
+Context: Sharpening knives: He then takes the knife and sharpens it against the wood piece. He then notices a little black and green poisonous frog sitting next to him. the frog 
+Choices:
+  0: eventually gets to get up and marches out of the room waving its body about.
+  1: then starts to get up from the chair and begins walking towards the camera.
+  2: then escapes and jumps away.
+  3: is acting crazy and attacking him while he is cooking.
+Model selected: then escapes and jumps away.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 14:
+Context: Sharpening knives: He then notices a little black and green poisonous frog sitting next to him. The frog then escapes and jumps away. he 
+Choices:
+  0: sits and hugs another man and also adjusts his camera.
+  1: then sits there staring at his text machine as if he has actually been given a gift from god.
+  2: explains how the frog secretes a poisonous fluid that can be extremely harmful.
+  3: takes the frog on his hand and tickles the back of it.
+Model selected: explains how the frog secretes a poisonous fluid that can be extremely harmful.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 15:
+Context: Playing bagpipes: A person is playing bagpipes out in a park. A man and two boys watching from a far. the camera 
+Choices:
+  0: shoots areas all around the park while the bagpipes play.
+  1: is covered to the boy that is playing there.
+  2: then goes black and we see a black opening scene.
+  3: watching the boy and boy as they play a game of drums.
+Model selected: shoots areas all around the park while the bagpipes play.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 16:
+Context: Playing water polo: Two people are seen passing a ball back and fourth in a pool and leads into one speaking to the camera. the man 
+Choices:
+  0: dips the ball and walks back with the boy and pours detergent into a cup again.
+  1: then throws the ball into the pool and begins running around with a sail in his hand while a group of men watch.
+  2: then takes a drink having a conversation with another man and another man leads into him throwing balls in the water and laughing to the camera.
+  3: demonstrates how to properly throw the ball with his hands while still speaking to the camera.
+Model selected: demonstrates how to properly throw the ball with his hands while still speaking to the camera.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 17:
+Context: Having an ice cream: A woman is sitting at a table in a fast food restaurant while eating. She continually speaks to nobody as she eats. she 
+Choices:
+  0: is then seen sitting alone as she eats a cold brown ice cream.
+  1: pauses in the process of eating to enjoy her food.
+  2: stands up and grabs her purse, continuing to talk and laugh as she leaves.
+  3: picks up another chocolate bar and chews it as she talks.
+Model selected: stands up and grabs her purse, continuing to talk and laugh as she leaves.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 18:
+Context: Cheerleading: A group of cheerleaders run onto a stage before a cheering audience. they 
+Choices:
+  0: get into formation, then begin dancing and flipping as male cheerleaders join them.
+  1: perform a cheer routine before the girls, along with makeup artists, spread out and pose.
+  2: take turns jumping on each other like they are performing karate.
+  3: are then shown performing the type of cheerleading dance, using batons and pole vaults.
+Model selected: get into formation, then begin dancing and flipping as male cheerleaders join them.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 19:
+Context: Cheerleading: A group of cheerleaders run onto a stage before a cheering audience. They get into formation, then begin dancing and flipping as male cheerleaders join them. they all 
+Choices:
+  0: dance and flip on stage while hanging their hats on the sides.
+  1: continue dancing and flipping, doing hand springs.
+  2: dance together with flip up their sleeves.
+  3: perform their routines as the studio rashes to a halt with cheerleaders in the audience.
+Model selected: continue dancing and flipping, doing hand springs.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 20:
+Context: Cheerleading: They get into formation, then begin dancing and flipping as male cheerleaders join them. They all continue dancing and flipping, doing hand springs. when they 
+Choices:
+  0: are done, they shake hands and walk away, but cheers are heard all around as they're finished.
+  1: are finished, they jump up and down happily and walk off the stage, exhausted.
+  2: are done, a male cheerleader is crowned and an instant replay is shown.
+  3: come down from their workout, they all stop to bow and applaud, then they continue dancing.
+Model selected: are finished, they jump up and down happily and walk off the stage, exhausted.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 21:
+Context: Sharpening knives: A woman is reading a newspaper nearby while he speaks to her and shows her something in his hand. The man sharpens his knives using an electric tool. he 
+Choices:
+  0: sharpens and cuts something on a knife board using an electric tool.
+  1: then continues cutting his onion.
+  2: travels with his knife under the table and uses it also in his shoe.
+  3: then shows her a spare knife that he has also used on a knife sharpener and drills into a side of the table.
+Model selected: then shows her a spare knife that he has also used on a knife sharpener and drills into a side of the table.
+Model prediction index: 3
+Correct answer index: 1
+Is correct: False
+--------------------------------------------------
+
+Example 22:
+Context: Cutting the grass: A man is outside of a building. He is using commercial lawn mowing equipment. he 
+Choices:
+  0: walks back and forth as he mows the grass.
+  1: is animated as he does the task.
+  2: relaxes, making sure his lawn is pristine.
+  3: runs from one side of the building to the other.
+Model selected: walks back and forth as he mows the grass.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 23:
+Context: Having an ice cream: Children bring desert out for their family member. the family 
+Choices:
+  0: floats in a river.
+  1: member stands looking into a hut and then handing people photographs.
+  2: member cuts a piece of sunscreen.
+  3: enjoys eating the desert together.
+Model selected: enjoys eating the desert together.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 24:
+Context: Having an ice cream: The family enjoys eating the desert together. The people in the restaurant laugh at the man and he wonders what they are doing. the man 
+Choices:
+  0: goes to the bathroom and isn't able to get very far.
+  1: puts the glass aside and a fourth person walks in and walks away.
+  2: plays the bagpipe and smiles and laughs as he enjoys the hospitality.
+  3: gets up and walks away to the other room.
+Model selected: gets up and walks away to the other room.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 25:
+Context: Washing face: A black female is shown in a room with a black scarf around her head. black spots on her faced 
+Choices:
+  0: are then zoomed in on and she begins to apply something on it.
+  1: are shown and she misses a little bit of her swing.
+  2: are shown and one finger is seen poking through.
+  3: are shown as she continues to dance around on the hardwood and every move makes a lash on her face.
+Model selected: are then zoomed in on and she begins to apply something on it.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 26:
+Context: Washing face: A black female is shown in a room with a black scarf around her head. Black spots on her faced are then zoomed in on and she begins to apply something on it. next 
+Choices:
+  0: , she begins to brush her lips and make painted lips look just like a lipstick to the camera and ends with her closing gift and instruction showing her off at the end.
+  1: she is shown in various different locations and gets extremely close to a wall.
+  2: , she is shown making multiple moans and sprays some kind of liquid down her face before hanging up.
+  3: , she takes some spray and it makes her skin extremely oily and she continues to talk until the video is over.
+Model selected: , she takes some spray and it makes her skin extremely oily and she continues to talk until the video is over.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 27:
+Context: Paintball: A helicopter flies in some people who then start playing paintball. they 
+Choices:
+  0: run around obstacles and have a great time.
+  1: lose their shirt during the fight and run back the others.
+  2: shoot at each other while the helicopter drone who am looking on.
+  3: chase a bird in the sky while others walk around.
+Model selected: run around obstacles and have a great time.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 28:
+Context: Gargling mouthwash: A young boy and girl are standing over a sink with their mother talking. the mother 
+Choices:
+  0: is now putting lipstick on the boy's mouth and he tries to stop her but only gets a little bit stuck.
+  1: washes the boy while the child grabs shampoo.
+  2: shows some shaving cream on the boy who is scrubbing her brushes.
+  3: instructs them on how to brush their teeth while laughing.
+Model selected: instructs them on how to brush their teeth while laughing.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 29:
+Context: Gargling mouthwash: A young boy and girl are standing over a sink with their mother talking. The mother instructs them on how to brush their teeth while laughing. the boy 
+Choices:
+  0: puts a shirt on and rubs his mouth.
+  1: helps his younger sister brush his teeth.
+  2: walks with an empty mouthwash cup on a sink floor.
+  3: and girl then begin working out.
+Model selected: helps his younger sister brush his teeth.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 30:
+Context: Gargling mouthwash: The mother instructs them on how to brush their teeth while laughing. The boy helps his younger sister brush his teeth. she 
+Choices:
+  0: shows how to hit the mom and then kiss his dad as well.
+  1: brushes past the camera, looking better soon after.
+  2: glows from the center of the camera as a reaction.
+  3: gets them some water to gargle in their mouths.
+Model selected: gets them some water to gargle in their mouths.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 31:
+Context: Gargling mouthwash: She gets them some water to gargle in their mouths. The boy and girl begin playing in the sink. the woman 
+Choices:
+  0: shakes her head in disbelief and waves at her.
+  1: laughs at the children dribbling water.
+  2: comes back and talks to the boys.
+  3: gets some food out of the fridge and they continue playing together.
+Model selected: comes back and talks to the boys.
+Model prediction index: 2
+Correct answer index: 1
+Is correct: False
+--------------------------------------------------
+
+Example 32:
+Context: Washing face: A cat is sitting in a cat bed. It is licking its paw. it 
+Choices:
+  0: then wipes its paw on its ear.
+  1: crawls to the door.
+  2: 's laying down about six inches away from the camera.
+  3: crawls on one foot to get closer to the camera.
+Model selected: then wipes its paw on its ear.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 33:
+Context: Archery: A man in brown jacket is pulling out an arrow from the target board, then he was talking to the camera, then he pull out his bow and started to use it with his bow to hit the target board, he fired his bows several times. the man 
+Choices:
+  0: played paper if and shoot the arrows to hit the target, then he hang from the board with his bow and arrow.
+  1: went to the target board and talked to the camera.
+  2: eventually throw the arrow, but it flew into the gravel is near the targets.
+  3: have his bow as he talk to the camera, he pulled it out to show how to put with its flex, tighten, and notch that was attached to his bow.
+Model selected: went to the target board and talked to the camera.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 34:
+Context: Cutting the grass: A man walks outside plugs his lawn mower in and gets ready to mow. he 
+Choices:
+  0: drives through the grass while drinking from a large cup of water and carrying his lawn mower.
+  1: walks off the porch and goes back inside.
+  2: starts mowing his lawn casually going over all the grass.
+  3: does this multiple times until a pale orange moon appears overhead.
+Model selected: walks off the porch and goes back inside.
+Model prediction index: 1
+Correct answer index: 2
+Is correct: False
+--------------------------------------------------
+
+Example 35:
+Context: Cutting the grass: A man walks outside plugs his lawn mower in and gets ready to mow. He starts mowing his lawn casually going over all the grass. his dog 
+Choices:
+  0: comes outside and starts to follow him a little while he's closer to the house.
+  1: comes outside and takes a closer look at the man mowing, after he picks up the mower.
+  2: runs loose and feeds on his movements.
+  3: is having a seizure and starts to hop all over the lawn as he walks around.
+Model selected: comes outside and takes a closer look at the man mowing, after he picks up the mower.
+Model prediction index: 1
+Correct answer index: 0
+Is correct: False
+--------------------------------------------------
+
+Example 36:
+Context: Cutting the grass: He starts mowing his lawn casually going over all the grass. His dog comes outside and starts to follow him a little while he's closer to the house. the yard 
+Choices:
+  0: is slowly starting to look really really nice, once he is completely finished the yard looks great, nice and smooth.
+  1: is very neat and clean and very active under the circumstances.
+  2: gets mowed quicker by the dog.
+  3: eventually looks happy on the outside and appears to be going pretty happily.
+Model selected: gets mowed quicker by the dog.
+Model prediction index: 2
+Correct answer index: 0
+Is correct: False
+--------------------------------------------------
+
+Example 37:
+Context: Surfing: A sea is shown with a green forest on seashore. Blond man is standing in seashore and talking to the camera and surfing big waves on the sea. man 
+Choices:
+  0: is on ocean and swimming in white water snapping his head.
+  1: is snowboarding up in the sea.
+  2: is doing flips in the waters and on the rocks and he be water surfing.
+  3: is walking on seashore through a lot of people and talking to the camera and holding an award and talking about surfing the seashore.
+Model selected: is walking on seashore through a lot of people and talking to the camera and holding an award and talking about surfing the seashore.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 38:
+Context: Washing face: We see a bottle of face wash. we 
+Choices:
+  0: see a newspaper story.
+  1: see four cookies in a pan.
+  2: see a person holding face wash then putting it on their face.
+  3: see a tool on a table.
+Model selected: see a person holding face wash then putting it on their face.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 39:
+Context: Washing face: We see a person holding face wash then putting it on their face. They rinse the face and add the face wash with a brush. we 
+Choices:
+  0: see a closing title screen.
+  1: see a black screen with the credits.
+  2: see an illustration on how to add the wash using a brush.
+  3: then see a replay then the person putting the face wash on.
+Model selected: see an illustration on how to add the wash using a brush.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 40:
+Context: Plastering: A person is seen throwing plaster onto a wall while the camera follows the person close behind. the person 
+Choices:
+  0: continues throwing ingredients down and leads into a person kicking a dirty toilet.
+  1: gradually throws more and more onto the wall and the camera pans over the finished product.
+  2: then uses paper to spread it all over the wall followed by others putting paper through with the plaster.
+  3: is now seen putting wax all along the wall while still looking back to the camera.
+Model selected: gradually throws more and more onto the wall and the camera pans over the finished product.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 41:
+Context: Applying sunscreen: More and more people begin talking and each of them has a bottle of sun screen and starts to squirt it on their arms in effort to protect their skin. a small blue bottle of the sun screen 
+Choices:
+  0: appears and then different people carry it to a table where they mix the liquid with a straw with a straw and take turns squirting the liquid into their skin.
+  1: appears near each of their hair as they continue to talk but no bottle at all appear.
+  2: is then shown and several more people begin talking about the product.
+  3: zooms in on sheers that they have on the floor.
+Model selected: is then shown and several more people begin talking about the product.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 42:
+Context: Beer pong: A group of boys are standing in a room with many clear cups of beer on a table they are all standing around. the boys 
+Choices:
+  0: take a flute together and then begin to play the harmonica using it to play the tune.
+  1: begin to wrap red bow around the plastic cups, put bows on the bottoms _start_various objects on the foam covers and belongings to the floor.
+  2: talk, laugh and tease each other before beginning a game of beer pong across a long table using a triangle shaped array of clear cups.
+  3: all grab one and chug their contents of the cans.
+Model selected: talk, laugh and tease each other before beginning a game of beer pong across a long table using a triangle shaped array of clear cups.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 43:
+Context: Beer pong: The boys talk, laugh and tease each other before beginning a game of beer pong across a long table using a triangle shaped array of clear cups. one of the ping pongs 
+Choices:
+  0: is knocked upside down, which causes the other teens to give each other high fives.
+  1: tries to rise but dikes instead.
+  2: rush walks up in front of the boys, removes a small piece of paper from the bottom of the table, puts a hand on the machine and wrestles with buttons, turns the machine off and pushes a button inside to turn the game back on.
+  3: lands in the cup and one of the boys begins to drink the beer.
+Model selected: lands in the cup and one of the boys begins to drink the beer.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 44:
+Context: Beer pong: One of the ping pongs lands in the cup and one of the boys begins to drink the beer. the group 
+Choices:
+  0: of teens is sailing down the river with others sailing in the background.
+  1: gets up together and poses with their vests to celebrate.
+  2: continue to play beer pong when one final player is able to throw and land a ping pong ball while standing with his back to the cups at which point the boys celebrate, and laugh.
+  3: does a trick and the liquid is poured on a second table.
+Model selected: continue to play beer pong when one final player is able to throw and land a ping pong ball while standing with his back to the cups at which point the boys celebrate, and laugh.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 45:
+Context: Grooming dog: There's a nbc news reporter wearing a red sweater and white shirt talking about dog grooming by scissor wizard a grooming company. the representative from the company 
+Choices:
+  0: is talking about the services they offer and how those dogs participate in dog shows.
+  1: speaks to a woman sitting on a colorful conference room chair next to a brown dog kennel in front of them.
+  2: tells viewers about a dog grooming company, itv with a website.
+  3: in grey sweater and black pants talks about the procedures on grooming dogs in life and techniques.
+Model selected: is talking about the services they offer and how those dogs participate in dog shows.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 46:
+Context: Grooming dog: The representative from the company is talking about the services they offer and how those dogs participate in dog shows. a groomer 
+Choices:
+  0: is seen using shears to creatively trim the dog's hair and even dye it in colorful shades of red, green, yellow and blue.
+  1: is presenting cookies to the room with a loaf of bread.
+  2: shows crowd opinion for use as their garden service representative.
+  3: speaks to an older man about snow cleaning dogs and showing how it is flectious.
+Model selected: is seen using shears to creatively trim the dog's hair and even dye it in colorful shades of red, green, yellow and blue.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 47:
+Context: Having an ice cream: A woman tries to eat ice cream to a child, but the child refuses to eat the ice cream, then the woman eats the ice cream in the spoon. after 
+Choices:
+  0: , the woman gives ice cream to the child, and then the woman cleans the child's mouth.
+  1: , the child takes out the fork the other child takes out the spoon and eats the ice cream.
+  2: , the child and the woman tries to eat food without ice cream, then they sit and talk with adults in the room.
+  3: , two people wearing red shirts pass through the store's door and inside the market and besides a man and a chimpanzee wearing silver uniforms are watching the woman and child.
+Model selected: , the woman gives ice cream to the child, and then the woman cleans the child's mouth.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 48:
+Context: Having an ice cream: After, the woman gives ice cream to the child, and then the woman cleans the child's mouth. an old woman 
+Choices:
+  0: feeds a boy ice cream.
+  1: hold the child and eats the ice cream, after the woman is giving baby ice cream to the child.
+  2: tries to stop the mother pray while giving a baby something else.
+  3: is standing using a white blower to blow snow.
+Model selected: feeds a boy ice cream.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 49:
+Context: Clean and jerk: Men are lifting heavy weights over their head several times. A man in a blue shirt is watching one of the men. a man in a gray shirt 
+Choices:
+  0: is watching the men on the ground.
+  1: hits a big weight in slow motion.
+  2: is talking to one of the men in the middle of the gym.
+  3: is mimicking the person lifting the weight.
+Model selected: is talking to one of the men in the middle of the gym.
+Model prediction index: 2
+Correct answer index: 3
+Is correct: False
+--------------------------------------------------
+
+Example 50:
+Context: Grooming dog: In home pet groomers demonstrate how to groom a pet. the person 
+Choices:
+  0: puts a setting engage on the pets tongue and leash.
+  1: starts at their butt rise, combing out the hair with a brush from a red.
+  2: is demonstrating how the dog's hair is trimmed with electric shears at their grooming salon.
+  3: installs and interacts with a sleeping pet before moving away.
+Model selected: is demonstrating how the dog's hair is trimmed with electric shears at their grooming salon.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 51:
+Context: Polishing shoes: A person polish a shoe with a wrapped finger. then 
+Choices:
+  0: , the person remove the wrapping paper to expose a shoe.
+  1: , the person removes the heel heel from the shoe and polish.
+  2: , the person grabs polish paste and water to polish the shoe.
+  3: , a person polish the fingers, then the person puts a black polish.
+Model selected: , the person removes the heel heel from the shoe and polish.
+Model prediction index: 1
+Correct answer index: 2
+Is correct: False
+--------------------------------------------------
+
+Example 52:
+Context: Zumba: Eight people are standing at the studio, one woman walked at the back of the group. the group 
+Choices:
+  0: then begins marching down a fitness track, demonstrating steps, going forward and backward, in between takes several breaks to lift their feet.
+  1: is gathered around a long table into a dance routine.
+  2: started dancing, swirling, shaking their hips, rotating, their arms and hands are moving from side to side, in front.
+  3: continue to discuss the topic of volleyball.
+Model selected: started dancing, swirling, shaking their hips, rotating, their arms and hands are moving from side to side, in front.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 53:
+Context: Sharpening knives: A man is seen talking to the camera and presents his knife and sharpener. He then glides the knife down the sharpener and shows how other knives work with different sharpeners. he 
+Choices:
+  0: then repeats his advice and using more wax.
+  1: shows the using the sharpener on a piece of wood.
+  2: presents the knife one last time while still speaking to the camera.
+  3: uses scissors to cut the blade as well as metal and talk to the camera at the end.
+Model selected: presents the knife one last time while still speaking to the camera.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 54:
+Context: Playing harmonica: A man walks onto the stage to join a band. a man 
+Choices:
+  0: plays harp and flute while two other people play instruments next to him.
+  1: and woman dance around together on the stage.
+  2: dance on the ropes attached to the stage.
+  3: plays up front of a band with a harmonica.
+Model selected: plays up front of a band with a harmonica.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 55:
+Context: Playing harmonica: A man walks onto the stage to join a band. A man plays up front of a band with a harmonica. the keyboardist 
+Choices:
+  0: plays the hip hop and dance moves with the band.
+  1: plays a spirited solo during the song.
+  2: plays his guitar while moving his body around in front of the band.
+  3: sings with the band, twirling his violin as he walks.
+Model selected: sings with the band, twirling his violin as he walks.
+Model prediction index: 3
+Correct answer index: 1
+Is correct: False
+--------------------------------------------------
+
+Example 56:
+Context: Running a marathon: A camera pans away from a road and shows a person's feet moving around. several shots 
+Choices:
+  0: are shown of people riding up a mountain on skis while being pulled down by a rope.
+  1: are shown of people tying their shoes, hitting a button, and checking a watch.
+  2: are shown of people wake boarding.
+  3: are then shown of people riding on snowboards over mountains.
+Model selected: are shown of people tying their shoes, hitting a button, and checking a watch.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 57:
+Context: Running a marathon: A camera pans away from a road and shows a person's feet moving around. Several shots are shown of people tying their shoes, hitting a button, and checking a watch. people 
+Choices:
+  0: march around a room wearing funny hats, hats, and shoes.
+  1: then are shown washing a car.
+  2: are then seen running down the road one at a time followed by many more following.
+  3: walk along a road, using bicycles and bagpipes.
+Model selected: are then seen running down the road one at a time followed by many more following.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 58:
+Context: Using the pommel horse: A gymnast put power chalk power on his hands and stands near the pommel horse. then 
+Choices:
+  0: , the gymnast put strength and power item on his body and falls.
+  1: , the gymnast approach the pommel horse to spin around many times.
+  2: , the gymnast blade the board and stands in position facing the pommel horse doing blade moves.
+  3: , the gymnast moves around and flips the chalk power to full weight and continues gymnastics for the next competition, after he turns and stands near the pommel horse.
+Model selected: , the gymnast approach the pommel horse to spin around many times.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 59:
+Context: Using the pommel horse: A gymnast put power chalk power on his hands and stands near the pommel horse. Then, the gymnast approach the pommel horse to spin around many times. then 
+Choices:
+  0: , the gymnast stand on his hand and jumps to land on the floor, while people applaud.
+  1: , the gymnast put the star light on his hands and jumps high using strength.
+  2: , the gymnast puts fluid on the pommel horse and sit on it to rise the body while position it.
+  3: , the gymnast cross the pommel horse with the long rope while performing handsprings.
+Model selected: , the gymnast cross the pommel horse with the long rope while performing handsprings.
+Model prediction index: 3
+Correct answer index: 0
+Is correct: False
+--------------------------------------------------
+
+Example 60:
+Context: Kayaking: A logo shows that this video is presented by expert village. a man in a small blue boat 
+Choices:
+  0: is pushing a kress of water in a lake while instructing his boarder.
+  1: discusses the topic of hand surfing in a hole and gives hints on how to perform this activity.
+  2: , in the middle of a lake, is skiing.
+  3: is in the water pushing a boat with a sail.
+Model selected: is in the water pushing a boat with a sail.
+Model prediction index: 3
+Correct answer index: 1
+Is correct: False
+--------------------------------------------------
+
+Example 61:
+Context: Kayaking: A man in a small blue boat discusses the topic of hand surfing in a hole and gives hints on how to perform this activity. the man 
+Choices:
+  0: demonstrates how to properly back up a hand surf by requiring an anchor.
+  1: demonstrates tricks that can be done while performing this activity.
+  2: in the small blue boat holds a fish in his hands and then holds the fish while talking about the technique needed to perform this activity.
+  3: is omic on the water as he's riding the speedo on the aerobic machine still pointing down at the water.
+Model selected: demonstrates tricks that can be done while performing this activity.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 62:
+Context: Playing harmonica: The camera pans to show a man playing a harmonica while sitting on a log beside a river. A woman walks near the train tracks while a train drives by. the woman 
+Choices:
+  0: continues just playing with the tunes she made.
+  1: sees the harmonica playing man in the distance.
+  2: taps a horn intermittently as the camera pans right.
+  3: plays a song on her harmonica while walking away from the train.
+Model selected: plays a song on her harmonica while walking away from the train.
+Model prediction index: 3
+Correct answer index: 1
+Is correct: False
+--------------------------------------------------
+
+Example 63:
+Context: Playing harmonica: A woman walks near the train tracks while a train drives by. The woman sees the harmonica playing man in the distance. she 
+Choices:
+  0: comes back to the train and continues walking on the subway.
+  1: walks around the rail of the tracks and watches the scenery and the crowds of people.
+  2: watches him and listens to him playing.
+  3: begins playing with the harmonica and stops.
+Model selected: watches him and listens to him playing.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 64:
+Context: Playing harmonica: The woman sees the harmonica playing man in the distance. She watches him and listens to him playing. She walks away leaving the man. the man 
+Choices:
+  0: takes out a wall show from his guitar.
+  1: finishes playing and remains seated.
+  2: jumps over a barrier and lands on the sandy beach.
+  3: plays in a house while the woman looks on.
+Model selected: jumps over a barrier and lands on the sandy beach.
+Model prediction index: 2
+Correct answer index: 1
+Is correct: False
+--------------------------------------------------
+
+Example 65:
+Context: Cleaning windows: A person is shown looking around a city and begins washing windows with his tools. he 
+Choices:
+  0: then brushes right through the window and cleans it off.
+  1: uses a large block cutter to remove smaller blocks until he has the whole of the window covered.
+  2: puts water on a hose and begins cleaning the windows.
+  3: goes up and down the windows at a rapid pace and continues filming himself through the glass.
+Model selected: puts water on a hose and begins cleaning the windows.
+Model prediction index: 2
+Correct answer index: 3
+Is correct: False
+--------------------------------------------------
+
+Example 66:
+Context: Cleaning windows: A person is shown looking around a city and begins washing windows with his tools. He goes up and down the windows at a rapid pace and continues filming himself through the glass. he 
+Choices:
+  0: continues to work by scrubbing the windows and then by pouring water out.
+  1: takes his clothes off and hangs them up before throwing his plaid shirt into the laundry.
+  2: finishes the glass in record time and turns off the camera.
+  3: spins around to show the different angles of the board and shows pictures of the house in the end.
+Model selected: finishes the glass in record time and turns off the camera.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 67:
+Context: Ice fishing: A man dressed in yellow and black winter clothes ice fishes on a a frozen lake. the man 
+Choices:
+  0: is reeling in a fish for a long time.
+  1: spins with his fishing pole in the air.
+  2: does a trick on his dirty ice fishing line.
+  3: does numerous tricks as he goes through these beauty course courses of ice covered lakes.
+Model selected: is reeling in a fish for a long time.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 68:
+Context: Ice fishing: A man dressed in yellow and black winter clothes ice fishes on a a frozen lake. The man is reeling in a fish for a long time. the mans catch 
+Choices:
+  0: more fish and throws them to the side.
+  1: finally reaches the surface.
+  2: a fish for dinner by making a wish with his mouth.
+  3: one and puts it on a fishing pole in the lake.
+Model selected: one and puts it on a fishing pole in the lake.
+Model prediction index: 3
+Correct answer index: 1
+Is correct: False
+--------------------------------------------------
+
+Example 69:
+Context: Washing face: Two children are seen sitting in a tub rubbing their faces and another person's hands interacting. the boy 
+Choices:
+  0: continues to rub water all over his face as well as play with toys and smile at the cameraman.
+  1: walks out of the bathroom laughing to the camera and the girl stands up to rinse her face off.
+  2: then begins washing the other child and ends by copulating with him.
+  3: is now seen pointing down by himself and leads into him holding a comb and blow dryer and speaking to others.
+Model selected: walks out of the bathroom laughing to the camera and the girl stands up to rinse her face off.
+Model prediction index: 1
+Correct answer index: 0
+Is correct: False
+--------------------------------------------------
+
+Example 70:
+Context: Hitting a pinata: A woman hands a young boy a stick with a little girl grabbing for her attention. the pinata 
+Choices:
+  0: is lifted and the boy begins swinging at the object.
+  1: pops, and a child in white attempts to hit the pinata, but fails.
+  2: pops out of the playground.
+  3: is hit one after the other, and the girl lets go her hold.
+Model selected: is lifted and the boy begins swinging at the object.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 71:
+Context: Hitting a pinata: A woman hands a young boy a stick with a little girl grabbing for her attention. The pinata is lifted and the boy begins swinging at the object. the camera 
+Choices:
+  0: zooms in on the pinata and then the girl.
+  1: is upside down so everyone else can't see the object.
+  2: pans around people watching while he hits the pinata and a little boy is seen clapping behind him.
+  3: zooms in on the boy's head and he looks at the pinata person in the background.
+Model selected: zooms in on the pinata and then the girl.
+Model prediction index: 0
+Correct answer index: 2
+Is correct: False
+--------------------------------------------------
+
+Example 72:
+Context: Playing violin: A woman is playing a violin on the street while various people walk around here and behind her. she 
+Choices:
+  0: continues to play violin while people pass by her.
+  1: continues playing the violin and beginning to intermittently move the sticks up and down.
+  2: smiles into the camera while playing and continues playing the song while several people bend down to tip her and walk around her.
+  3: finishes and walks off, leaving the violin lying on the ground.
+Model selected: finishes and walks off, leaving the violin lying on the ground.
+Model prediction index: 3
+Correct answer index: 2
+Is correct: False
+--------------------------------------------------
+
+Example 73:
+Context: Making a sandwich: Various pictures of food are shown followed by a person cutting up vegetables and mixing various ingredients into a pot. he 
+Choices:
+  0: shows how the vegetables are chopped for seasoning and then sprinkled into broth and shown with the water boiling.
+  1: cooks up a meal and each are shown eating inside the pot.
+  2: boils food into a bowl and then adds some part of a salad into the bowl.
+  3: then cuts up a piece of bread, scoops out the insides, and fries up some meat.
+Model selected: then cuts up a piece of bread, scoops out the insides, and fries up some meat.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 74:
+Context: Making a lemonade: Ingredients are sitting on a wooden block. a person 
+Choices:
+  0: adds flour to a baking pan.
+  1: starts mixing the ingredients together.
+  2: puts salt, lemon juice in a pot, then adds eggs, cheese, ham, and some other hoagies.
+  3: is mixing the ingredients in an iron.
+Model selected: starts mixing the ingredients together.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 75:
+Context: Hitting a pinata: A man is seen walking closer to a pinata while a large group of people stand around him. the man 
+Choices:
+  0: shows off various tapers while swinging at the pinata and throwing them out to the crowd.
+  1: then throws the pin while others watch on the sides.
+  2: spins around several times and throws the stick.
+  3: misses the pinata and hits a person behind him, shown again in slow motion.
+Model selected: spins around several times and throws the stick.
+Model prediction index: 2
+Correct answer index: 3
+Is correct: False
+--------------------------------------------------
+
+Example 76:
+Context: Ironing clothes: A pair of female hands uses an iron on a piece of baby clothing. the woman 
+Choices:
+  0: wets the garment and scrubs it with a cloth.
+  1: peels the old clothing off the piece and replaces it with dry material.
+  2: sets the iron aside and flips the clothing.
+  3: wraps the garment on top of the blouse, then irons it.
+Model selected: sets the iron aside and flips the clothing.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 77:
+Context: Ironing clothes: A pair of female hands uses an iron on a piece of baby clothing. The woman sets the iron aside and flips the clothing. the woman 
+Choices:
+  0: then undresses and irons the shirt.
+  1: places a pair of pants into a bucket.
+  2: shows how to iron a sock correctly.
+  3: uses the iron on the other side of the clothing.
+Model selected: uses the iron on the other side of the clothing.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 78:
+Context: Ironing clothes: The woman sets the iron aside and flips the clothing. The woman uses the iron on the other side of the clothing. the woman 
+Choices:
+  0: scrubs the clothing with her hands.
+  1: quickly picks up and irons, flames dancing over the clothing.
+  2: sets the iron aside.
+  3: crosses her arms in front of her and it's gone.
+Model selected: sets the iron aside.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 79:
+Context: Clipping cat claws: We see a chair with a pillow on it. a man holding a cat 
+Choices:
+  0: does curling.
+  1: starts hitting objects on an item.
+  2: sits down on the chair.
+  3: is wrapping a box.
+Model selected: sits down on the chair.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 80:
+Context: Clipping cat claws: We see a chair with a pillow on it. A man holding a cat sits down on the chair. The man clips the cats fingernails. the man 
+Choices:
+  0: strokes the cat's head.
+  1: then clips the cat nails.
+  2: puts the cat down and boxes it with paper.
+  3: gives the cats ears.
+Model selected: strokes the cat's head.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 81:
+Context: Clipping cat claws: A man holding a cat sits down on the chair. The man clips the cats fingernails. The man strokes the cat's head. the man 
+Choices:
+  0: sits back down on the chair.
+  1: takes the cat to the other room.
+  2: stands up and walks down the sidewalk.
+  3: plays with the cat rocking it back and forth.
+Model selected: sits back down on the chair.
+Model prediction index: 0
+Correct answer index: 3
+Is correct: False
+--------------------------------------------------
+
+Example 82:
+Context: Baton twirling: A young girl in a green leotard begins twirling a baton and doing tricks. the girl 
+Choices:
+  0: does this in the beginning while using her foot and one hand to move around her body.
+  1: begins to do some of her routine and does a few hip spins.
+  2: puts their hands together, and twirl together like a ballet dancer.
+  3: begins to incorporate her arms and does a flip and continues to flip the baton over her hands and arms.
+Model selected: begins to incorporate her arms and does a flip and continues to flip the baton over her hands and arms.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 83:
+Context: Baton twirling: The girl begins to incorporate her arms and does a flip and continues to flip the baton over her hands and arms. as the young lady 
+Choices:
+  0: continues her performance, she twirls the baton between her legs and over her head, catches it and does a gallop.
+  1: is still serving the baton, she places the extension on her left hand and does a full 180 degree spin in one flip.
+  2: becomes more involved in the ballet, she does a final dismount to bring her elbows down and her upper body straight.
+  3: is zapping her arms and is practicing her baton twirling technique, she grabs the baton from the ground and shows herself victorious while her coach claps.
+Model selected: continues her performance, she twirls the baton between her legs and over her head, catches it and does a gallop.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 84:
+Context: Baton twirling: As the young lady continues her performance, she twirls the baton between her legs and over her head, catches it and does a gallop. the rest of the young girl's performance 
+Choices:
+  0: is replayed in slow motion.
+  1: is a set of twirls and twist and then she runs off the floor to finish her performance.
+  2: is shown several times and ends by showcasing her back to the both the camera and a final focus of her performance.
+  3: is replayed, ending with the young lady clapping her hands joyfully.
+Model selected: is replayed in slow motion.
+Model prediction index: 0
+Correct answer index: 1
+Is correct: False
+--------------------------------------------------
+
+Example 85:
+Context: Removing ice from car: We see a man in a driveway cleaning snow from his car. the man 
+Choices:
+  0: cleans the snow under his windshield wipers.
+  1: wet his car and wipes it down.
+  2: moves the snow out of the front bumper of his car and pours gasoline on it.
+  3: removes the pieces of the line off his windshield.
+Model selected: cleans the snow under his windshield wipers.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 86:
+Context: Removing ice from car: We see a man in a driveway cleaning snow from his car. The man cleans the snow under his windshield wipers. we 
+Choices:
+  0: see the old man's garage and what looks like a boat in the water.
+  1: see the building behind the car.
+  2: zoom in on the cabin.
+  3: see the mans silver car gliding by in the background.
+Model selected: see the old man's garage and what looks like a boat in the water.
+Model prediction index: 0
+Correct answer index: 1
+Is correct: False
+--------------------------------------------------
+
+Example 87:
+Context: Removing ice from car: The man cleans the snow under his windshield wipers. We see the building behind the car. We do a 360 spin to see the parking lot. the man 
+Choices:
+  0: finishes and turns off the wipers.
+  1: opens the doors on his car and gets in.
+  2: finishes and slides out of the car.
+  3: puts up the camera.
+Model selected: finishes and turns off the wipers.
+Model prediction index: 0
+Correct answer index: 1
+Is correct: False
+--------------------------------------------------
+
+Example 88:
+Context: Clean and jerk: A man in a blue shirt and shorts lifts a large weight over his head. Another man is filming it. The same man comes back and lifts the weight over his head again. he 
+Choices:
+  0: drops it on the ground and walks away.
+  1: again lifts the weight over his head.
+  2: drops it and runs towards the camera.
+  3: drops it onto the floor where it gets stuck.
+Model selected: again lifts the weight over his head.
+Model prediction index: 1
+Correct answer index: 0
+Is correct: False
+--------------------------------------------------
+
+Example 89:
+Context: Throwing darts: A man is seen throwing a dart onto a board and leads into a woman speaking. the man 
+Choices:
+  0: tosses darts into the water while people measure the distance and run after them.
+  1: gives her several tips and she continues creating darts.
+  2: throws several more darts while taking the time to speak to the woman.
+  3: holds behind him and the woman continues speaking.
+Model selected: throws several more darts while taking the time to speak to the woman.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 90:
+Context: Surfing: A group of people are standing in the middle of a forest with a trail of pebbles separating them from a beautiful crystal clear body of water. the camera 
+Choices:
+  0: then goes right side up and shows a lot of scenery on the left side.
+  1: follows the couple kayaking behind the group on the trail moving back and fourth on the murky water in the forest.
+  2: moves across the water and several people on boats and jet-skis are moving in the water near a large wave.
+  3: zooms in on the foamy waters as well as the nearby cliffs and forest surrounding it.
+Model selected: zooms in on the foamy waters as well as the nearby cliffs and forest surrounding it.
+Model prediction index: 3
+Correct answer index: 2
+Is correct: False
+--------------------------------------------------
+
+Example 91:
+Context: Surfing: The camera moves across the water and several people on boats and jet-skis are moving in the water near a large wave. More large waves begin to surface and a man begins surfing the waves. the forest 
+Choices:
+  0: is then shown clearly under a large wide wave.
+  1: is then shown and surf boards appear that are washed up against the banks of the water.
+  2: starts to get darker and darker as the large wave picks up and men continue to sail around it.
+  3: of trees quickly moves over the trailing wave and they follow suit as well.
+Model selected: starts to get darker and darker as the large wave picks up and men continue to sail around it.
+Model prediction index: 2
+Correct answer index: 1
+Is correct: False
+--------------------------------------------------
+
+Example 92:
+Context: Cutting the grass: A large patch of grass is shown. a man 
+Choices:
+  0: belly flops on some grass before a newscaster announces the story.
+  1: stretches in front of it.
+  2: is shown inside while a machine is working.
+  3: is mowing the yard next to the bushes.
+Model selected: stretches in front of it.
+Model prediction index: 1
+Correct answer index: 3
+Is correct: False
+--------------------------------------------------
+
+Example 93:
+Context: Rollerblading: A pilates instructor on skates explains how to strap your risk protectors tight and shows that you need knee pads to protect your knees. the lady 
+Choices:
+  0: starts with two small straps and it puts her into a squatting position with feet fully placed over her knee and her hands suspended and ready.
+  1: then explains the skates movement and how to use the breaks that is in the back of the skates.
+  2: then puts lotion in both of her hands and rubs them along your knees while the instructor washes them.
+  3: shows how to harness and strap your weight on properly and she moves away from the mounting as she reaches for her left knee.
+Model selected: then puts lotion in both of her hands and rubs them along your knees while the instructor washes them.
+Model prediction index: 2
+Correct answer index: 1
+Is correct: False
+--------------------------------------------------
+
+Example 94:
+Context: Sharpening knives: A woman wearing a tan apron is holding a knife and talking. She then shows an appliance on the table and tilts it upwards. she 
+Choices:
+  0: turns a dial on the appliance and sets it back down.
+  1: continues sliding the blade over the appliance.
+  2: takes a quarter of an inch of the device and holds it against a piece of cake.
+  3: removes a lemon from a jar and places it into a pot.
+Model selected: turns a dial on the appliance and sets it back down.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 95:
+Context: Sharpening knives: She then shows an appliance on the table and tilts it upwards. She turns a dial on the appliance and sets it back down. she 
+Choices:
+  0: shows several shots of the chair in the end.
+  1: picks the knife back up and places it on the appliance.
+  2: pokes the vacuum nozzle in the top seam of the vacuum cleaner and adds fuel to it while still keeping the vacuum nozzle up.
+  3: also shows how to use tubing no a string is attached to it and she explaining the use of the tubing.
+Model selected: picks the knife back up and places it on the appliance.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 96:
+Context: Sharpening knives: She turns a dial on the appliance and sets it back down. She picks the knife back up and places it on the appliance. she 
+Choices:
+  0: gets up and starts brushing the blade.
+  1: uses a tool to pinch the wax off of the knife.
+  2: turns the dial again on the appliance.
+  3: jumps up and throws something into a container shaped like a snowboard.
+Model selected: turns the dial again on the appliance.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 97:
+Context: Sharpening knives: She picks the knife back up and places it in the appliance and slowly draws it back several times. she 
+Choices:
+  0: slices a tomato on a wood block with the knife.
+  1: removes the rubber band off of the knife and gets it across the blade.
+  2: continues using the appliance to put the fancy knife on the box.
+  3: stands up from the chair and walks towards the stairs before finally leaving the room.
+Model selected: slices a tomato on a wood block with the knife.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 98:
+Context: Sharpening knives: She picks the knife back up and places it in the appliance and slowly draws it back several times. She slices a tomato on a wood block with the knife. she 
+Choices:
+  0: decorates the knife with green and red maracas.
+  1: positions the knife front and back and finishes by pushing it straight across the square board.
+  2: then demonstrates how to sharpen the knife and finishes by putting a metal rod in front of the plate of spaghetti that she just sharpened.
+  3: grabs a second knife and puts it in the appliance.
+Model selected: grabs a second knife and puts it in the appliance.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 99:
+Context: Sharpening knives: A man wearing a black clothes is sharpening the knife on a stone. The man beside him on blue long sleeves drawing something on the table with his finger. the man 
+Choices:
+  0: continues sharpening the knife and standing on the middle of the stone.
+  1: turn the knife to sharpen the other side and then wipe it with paper towel.
+  2: stops sharpening the knife and draws on the stone again.
+  3: down retracts from the knife and starts sharpening the knife back up again.
+Model selected: stops sharpening the knife and draws on the stone again.
+Model prediction index: 2
+Correct answer index: 1
+Is correct: False
+--------------------------------------------------
+
+Example 100:
+Context: Layup drill in basketball: A man is seen speaking to the camera while a shot of a person playing basketball shows behind. the man 
+Choices:
+  0: continues going around the basket while the camera is sitting in the back.
+  1: continues to speak and leads into more clips of him playing tennis.
+  2: pulls the ball up on the court while still speaking to the camera.
+  3: continues speaking as more shots are shown of the boy playing basketball.
+Model selected: pulls the ball up on the court while still speaking to the camera.
+Model prediction index: 2
+Correct answer index: 3
+Is correct: False
+--------------------------------------------------
+
+Example 101:
+Context: Washing face: A bottle of deep cleansing gel is shown. a woman 
+Choices:
+  0: holds up the bottle, then is shown using several different solutions that she lines up together on the counter.
+  1: reading a book demonstrates how to use the bottle in the bathroom.
+  2: kneels down on a mat while holds up an aerosol can.
+  3: then begins applying the liquid to his body.
+Model selected: reading a book demonstrates how to use the bottle in the bathroom.
+Model prediction index: 1
+Correct answer index: 0
+Is correct: False
+--------------------------------------------------
+
+Example 102:
+Context: Using parallel bars: The male athlete is standing by the two poles, raised his arms up, then jumped on the poles with his arms, while under him, a man pull out a red beam. the athlete 
+Choices:
+  0: crosses parallel, then stand on all fours above, and on his arms then jump.
+  1: placed his feet on the pole and then hold it, then jumped from the pole on the poles stop and put his hands on his knees, bend down, and begin swinging on the pole.
+  2: perform his exhibition on the poles, he stand on his arms while his feet and legs are extended straight up in the air, he turns around, swirl, jumped and twist around then jumped on the mat, standing straight.
+  3: looked behind him, then and continue walking to the pole.
+Model selected: placed his feet on the pole and then hold it, then jumped from the pole on the poles stop and put his hands on his knees, bend down, and begin swinging on the pole.
+Model prediction index: 1
+Correct answer index: 2
+Is correct: False
+--------------------------------------------------
+
+Example 103:
+Context: Clean and jerk: A man is in the gym in tight he bends over picks up a weight over his head and drops it back down. he 
+Choices:
+  0: lifts his legs and pulls the bar up on his body and lifts the weight above his head.
+  1: lifts it again lifts it over his head and drops it this time and he loosens his way to the top and grabs it again.
+  2: raises the bar over his head followed by another.
+  3: walks back and loosens up before walking back up and doing it again adding more weight.
+Model selected: lifts his legs and pulls the bar up on his body and lifts the weight above his head.
+Model prediction index: 0
+Correct answer index: 3
+Is correct: False
+--------------------------------------------------
+
+Example 104:
+Context: Clean and jerk: A man is in the gym in tight he bends over picks up a weight over his head and drops it back down. He walks back and loosens up before walking back up and doing it again adding more weight. he 
+Choices:
+  0: finally lifts the weight over his head over his own head.
+  1: turns his back towards the camera and continues talking to the camera adding more weight along with more weight on the end.
+  2: does this multiple times adding more and more weight to the rack.
+  3: walks back up and drops the weights back down.
+Model selected: walks back up and drops the weights back down.
+Model prediction index: 3
+Correct answer index: 2
+Is correct: False
+--------------------------------------------------
+
+Example 105:
+Context: Doing a powerbomb: Two other men gets in the ring and are wresting the man in the center. People are around the ring wtching the wrest. three journalists 
+Choices:
+  0: came in and started talking to the reporter.
+  1: are standing wearing suits and watch the men in the ring.
+  2: gets in front of them tugging and pushing the man.
+  3: are wrestling at the ring as people are seeing them.
+Model selected: are standing wearing suits and watch the men in the ring.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 106:
+Context: Paintball: A shot of a sunset set is shown followed by peaking smoking and walking around a paint ball pit. the men 
+Choices:
+  0: then heat paint and paint more followed by smoke and zzing.
+  1: use firearms and films to shoot at a target while the owner smiles in the end.
+  2: speak to one another and lead into running around and playing paint ball.
+  3: play a game of indoor water volleyball and end by handing the ball to someone outside the net and presenting it to the camera.
+Model selected: speak to one another and lead into running around and playing paint ball.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 107:
+Context: Paintball: A shot of a sunset set is shown followed by peaking smoking and walking around a paint ball pit. The men speak to one another and lead into running around and playing paint ball. they 
+Choices:
+  0: are seen outside again with one man speaking and dancing in the same spot.
+  1: jump and skydive into the water at various speeds, tossing each other around.
+  2: pauses for a few moments to speak to one another and the camera captures the shooters from different angles.
+  3: finish and walk into each other holding a pose and cheering.
+Model selected: pauses for a few moments to speak to one another and the camera captures the shooters from different angles.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 108:
+Context: Scuba diving: We see the underwater sea floor. two people 
+Choices:
+  0: swim in front of the camera.
+  1: push the cups of at the sea floor and the sea floor begins to rise.
+  2: are sitting in a kayak behind the water.
+  3: engage in a game of water polo.
+Model selected: swim in front of the camera.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 109:
+Context: Scuba diving: We see the underwater sea floor. Two people swim in front of the camera. we 
+Choices:
+  0: see a sea turtle in a grey body bag.
+  1: see a blue wedge and see a boy wearing a cap underwater.
+  2: see a man holding a camera.
+  3: see men wearing water fogs.
+Model selected: see a man holding a camera.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 110:
+Context: Scuba diving: We see the underwater sea floor. Two people swim in front of the camera. We see a man holding a camera. we 
+Choices:
+  0: see a person kitesurfing the ocean floor.
+  1: see the man turn off the camera.
+  2: see divers and a man talking.
+  3: see a fin enter the camera.
+Model selected: see the man turn off the camera.
+Model prediction index: 1
+Correct answer index: 3
+Is correct: False
+--------------------------------------------------
+
+Example 111:
+Context: Scuba diving: We see a fin enter the camera. The camera is spinning wildly. Bubbles rise out of a tube. a man 
+Choices:
+  0: bottoms out in the pool.
+  1: walks into the camera frame.
+  2: hands another person the mouthpiece.
+  3: flours out of the tube.
+Model selected: walks into the camera frame.
+Model prediction index: 1
+Correct answer index: 2
+Is correct: False
+--------------------------------------------------
+
+Example 112:
+Context: Cleaning sink: A man is seen standing behind a counter speaking to the camera and holding up cleaning products. He puts the products into a sink and begins scrubbing around the sides. he 
+Choices:
+  0: wipes down the counter and shows off the finished sink.
+  1: sprays down all the surfaces and flips over to show the just cleaned sink.
+  2: moves to one side of the sink and slowly replaces the tile while also speaking to the camera.
+  3: puts a pants and a shirt into the sink and dries off.
+Model selected: wipes down the counter and shows off the finished sink.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 113:
+Context: Playing polo: A group of men on donkeys play a form of polo on a dirt field. the 
+Choices:
+  0: camera pans to people watching the game.
+  1: camera follows the pack as they chase a dirt bucker.
+  2: men fall to the ground.
+  3: group of players are shown riding horses by goalie during a competition without nets strapped around them.
+Model selected: camera pans to people watching the game.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 114:
+Context: Playing polo: A group of men on donkeys play a form of polo on a dirt field. The camera pans to people watching the game. the camera 
+Choices:
+  0: moves to the women playing.
+  1: pans between the playing couples.
+  2: cuts to people riding horses on a dirt track.
+  3: returns to the people riding the donkeys.
+Model selected: cuts to people riding horses on a dirt track.
+Model prediction index: 2
+Correct answer index: 3
+Is correct: False
+--------------------------------------------------
+
+Example 115:
+Context: Doing fencing: Two men are on a platform, fencing. they 
+Choices:
+  0: jab at each other with their swords.
+  1: are slipping and sliding between two beams.
+  2: pick up sticks and start the match, alternating back and forth.
+  3: are in a par four olympics match.
+Model selected: jab at each other with their swords.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 116:
+Context: Doing fencing: Two men are on a platform, fencing. They jab at each other with their swords. a woman 
+Choices:
+  0: watches as they parlay back and forth.
+  1: approaches, instructing them.
+  2: is shown on the side.
+  3: grabs them and whips them apart.
+Model selected: is shown on the side.
+Model prediction index: 2
+Correct answer index: 0
+Is correct: False
+--------------------------------------------------
+
+Example 117:
+Context: Surfing: There are two men in the water wearing wetsuits and laying on their surfboards as they ride a wave. the camera man 
+Choices:
+  0: is shorter than the men and has a shorter range.
+  1: is in a fast moving boat and he continues to video the surfers who are still riding the wave but now they are standing up.
+  2: catches one of the surfers as he slips into the goop.
+  3: is surfing as fast as he can on the water as the waves crescendo.
+Model selected: is surfing as fast as he can on the water as the waves crescendo.
+Model prediction index: 3
+Correct answer index: 1
+Is correct: False
+--------------------------------------------------
+
+Example 118:
+Context: Surfing: The surfer who is in front is happy to riding the wave for so long that he raises his two arms up in the air and then lowers it back down. the surfer in the back 
+Choices:
+  0: kept one arm raised up and the surfer in front of him raise his left arm.
+  1: wave has a big wave almost bigger than he is paddling, and this makes it pretty fun because it causes the surfer riding the wave to put up a lot of resistance so he just does it and crash onto the waves making the wave even bigger then it was.
+  2: does not have to go as far as he needed to to go as he is ready to go.
+  3: begins to lose balance and falls off of his board while the man in the front is still standing up.
+Model selected: begins to lose balance and falls off of his board while the man in the front is still standing up.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 119:
+Context: Ice fishing: Several people are seen drilling holes into the ice while looking down and speaking to the camera. Many pictures are shown of the people fishing as well as pulling fish out of a hole. more people 
+Choices:
+  0: are seen swimming around in the lake and the men speak to the camera.
+  1: are seen having their pictures taken and speaking to the camera while water flows all around them.
+  2: sit by the holes and continue to pull out fish.
+  3: are seen drilling holes as well as swimming around in the water.
+Model selected: are seen drilling holes as well as swimming around in the water.
+Model prediction index: 3
+Correct answer index: 2
+Is correct: False
+--------------------------------------------------
+
+Example 120:
+Context: Putting on shoes: An older women is shown sitting on a front step putting socks on with a small dog standing near her. she 
+Choices:
+  0: goes back and forth putting on socks near the dog.
+  1: jumps up and down grabbing her socks rubbing on the dog from time to time.
+  2: then puts her shoe on the foot and the dog looks off into the distance.
+  3: brushes and walks with the dog very close.
+Model selected: then puts her shoe on the foot and the dog looks off into the distance.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 121:
+Context: Playing violin: A young man plays violin while wearing headsets. then 
+Choices:
+  0: , the male hits the violin just once, get the pitch.
+  1: , the young man stops playing and pass on front a row of drummers.
+  2: , the young man finish playing and take off the headsets.
+  3: , the young man stands up to demonstrate how to play, after he plays in stairs.
+Model selected: , the young man finish playing and take off the headsets.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 122:
+Context: Layup drill in basketball: A female basketball coach is seen instructing a group of girl basketball players who are standing in line on a basketball court. the first girl 
+Choices:
+  0: walks across the court with the ball and keeps walking then pulling the girls to the other side of the court and the girls begin playing volleyball rhythmically rolling on the floor as the coach helps them follow how to properly do things.
+  1: line up and stand behind a dummy dummy.
+  2: trying to get the ball to go far past the basket and hit it back towards the basket while her coach continues teaching her.
+  3: passes to another coach and then runs to the net and takes a layup.
+Model selected: passes to another coach and then runs to the net and takes a layup.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 123:
+Context: Mooping floor: A group of people are in a house. a man 
+Choices:
+  0: is holding cored soap in his hand as he washes with a bottle.
+  1: is mopping the floor with a mop.
+  2: is shown wearing skis as he talks about areas he will like to ski on.
+  3: uses a paintball gun on his child.
+Model selected: is mopping the floor with a mop.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 124:
+Context: Mooping floor: A group of people are in a house. A man is mopping the floor with a mop. another boy 
+Choices:
+  0: attempts to walk through where he is mopping.
+  1: is mopping a floor while blindfolded.
+  2: is standing next to a man scrubbing the floor.
+  3: walks behind him and sets the mop down.
+Model selected: walks behind him and sets the mop down.
+Model prediction index: 3
+Correct answer index: 0
+Is correct: False
+--------------------------------------------------
+
+Example 125:
+Context: Mooping floor: A man is mopping the floor with a mop. Another boy attempts to walk through where he is mopping. the man 
+Choices:
+  0: takes a bucket, large hose and goes in the sink with it.
+  1: puts his foot down and walks away.
+  2: takes a drink of beer and complains to the camera.
+  3: walks around the mopping area.
+Model selected: puts his foot down and walks away.
+Model prediction index: 1
+Correct answer index: 2
+Is correct: False
+--------------------------------------------------
+
+Example 126:
+Context: Mooping floor: Another boy attempts to walk through where he is mopping. The man takes a drink of beer and complains to the camera. he 
+Choices:
+  0: gets back in the raft to go back to the store.
+  1: continues to mop mopping the floor.
+  2: mops through the room in between the people.
+  3: continues scrubbing the mop with another spray and the boy walks back.
+Model selected: continues to mop mopping the floor.
+Model prediction index: 1
+Correct answer index: 2
+Is correct: False
+--------------------------------------------------
+
+Example 127:
+Context: Tennis serve with ball bouncing: A small boy wearing a blue and yellow hoodie and gray sweat pants in standing in an outdoor tennis court. he 
+Choices:
+  0: then jumps onto a tennis ball that is positioned in between a set of net and a larger setting of tables on which are arranged various rackets and vegetables as well as various sticks.
+  1: is lifting a ball over his head to throw it at a birdie on a long wooden table in front of him.
+  2: lobs the ball back and forth onto the court then puts his hand down to record between his legs to record more practice kicks.
+  3: is holding a blue racket as he bounces the yellow and orange tennis ball on the court.
+Model selected: is holding a blue racket as he bounces the yellow and orange tennis ball on the court.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 128:
+Context: Tennis serve with ball bouncing: A small boy wearing a blue and yellow hoodie and gray sweat pants in standing in an outdoor tennis court. He is holding a blue racket as he bounces the yellow and orange tennis ball on the court. he 
+Choices:
+  0: starts with his first serve where the ball hits the net.
+  1: continues bouncing the yellow haired ball back and forth while looking out over the court passing the ball to one of the players.
+  2: bounces and throws the ball evenly evenly to continue the game of tennis against the two balls.
+  3: bounces it and does several different things to hit it.
+Model selected: starts with his first serve where the ball hits the net.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 129:
+Context: Tennis serve with ball bouncing: He starts with his first serve where the ball hits the net. Then he takes another ball, bounces it and serves again. the ball 
+Choices:
+  0: returns with a third serve.
+  1: bounces again and hits the net multiple times.
+  2: goes over the net and falls on the other side of the court.
+  3: comes back to him without touching the net.
+Model selected: goes over the net and falls on the other side of the court.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 130:
+Context: Playing harmonica: We see a golden title on a black screen. a man 
+Choices:
+  0: is waxing a small black horse as rolls his croquet stick.
+  1: is playing a harmonica as arrows point to numbers above him.
+  2: is wearing scuba gear in a hole in the ice at lake hriton.
+  3: is on a slack line and is pushed down it.
+Model selected: is playing a harmonica as arrows point to numbers above him.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 131:
+Context: Running a marathon: A shot of a cyclist is shown and then it cuts back to the same man in white speaking. a woman 
+Choices:
+  0: shows a strap on and checks it out.
+  1: is shown running and the man continues speaking about fitness tips.
+  2: is now seen riding beside the cyclist and taking pictures as well.
+  3: is then seen riding in on a horse with another man and they start riding together across the track.
+Model selected: is now seen riding beside the cyclist and taking pictures as well.
+Model prediction index: 2
+Correct answer index: 1
+Is correct: False
+--------------------------------------------------
+
+Example 132:
+Context: Running a marathon: A runner is running on a track in front of a crowd of people. a man 
+Choices:
+  0: is shown talking to the camera.
+  1: is not running when he jumps into a sand pit.
+  2: gives a brief introduction before continuing and competing against the man in black.
+  3: is throwing a ball for his dog to catch.
+Model selected: is shown talking to the camera.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 133:
+Context: Running a marathon: Runners are running down a track with crowds on both sides and one of the runners stumbles. Another runner is shown and a man is shown talking to the camera. a runner 
+Choices:
+  0: is crawling across a finish line while other runners are running through the finish line.
+  1: is walking through a huge forest and ends up climbing up the aplus over a fence and crashing into other person who subsequently falls too.
+  2: triumphant throws up his arms and walks off alone.
+  3: is shown again multiple times.
+Model selected: is crawling across a finish line while other runners are running through the finish line.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 134:
+Context: Running a marathon: The distressed runner is carried away. Runners in distress are shown. A man is talking to the camera. various runners 
+Choices:
+  0: arrive from various countries.
+  1: are shown in distress and talking to the camera.
+  2: came into the camera.
+  3: are shown putting on before a competition.
+Model selected: are shown in distress and talking to the camera.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 135:
+Context: Ice fishing: A person is seen standing off in the distance with another standing around a hole. the person 
+Choices:
+  0: then pitches a ball down a long slide and walks away looking triumphant.
+  1: then lights a match and starts throwing the wood to the other.
+  2: uses a fishing pole on the hole and attempts to pull out a fish.
+  3: then throws a ball down the snow and another person stands on a ladder and catches the ball.
+Model selected: uses a fishing pole on the hole and attempts to pull out a fish.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 136:
+Context: Sharpening knives: A cooker talks in a kitchen and shows the inside of a sharpener knife that has discs inside. then 
+Choices:
+  0: , the cooker put the discs in a tray made of zesty and sliced them on each side of a chopped banana, then slice them and add them to the lemon slice and add a glass of lemonade.
+  1: , the man puts a knife in the sharpener knife to sharpen.
+  2: , the cooker add black ingredient and block.
+  3: , the cooker prods the discs to make some dough inside while demonstrating while painted the floor.
+Model selected: , the man puts a knife in the sharpener knife to sharpen.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 137:
+Context: Sharpening knives: A cooker talks in a kitchen and shows the inside of a sharpener knife that has discs inside. Then, the man puts a knife in the sharpener knife to sharpen. after 
+Choices:
+  0: , the man then paints the knife with the discs.
+  1: , the man measures the sharpener and cut the discs on its knife, then sews the discs and carve them.
+  2: , the man wash and dry the knife.
+  3: , he cuts a slice in two and put them in a pan.
+Model selected: , the man wash and dry the knife.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 138:
+Context: Blowing leaves: A pile of trees are shown blowing outside on a cobblestone path outside of a building. as the leaves 
+Choices:
+  0: continue to blow a young boy walks into the scene clearing the path with his leaf blower.
+  1: fall, others are shown as well.
+  2: blow, flour is poured into a pan and laid out.
+  3: fall, a large dog wearing a blue cape covers his face.
+Model selected: continue to blow a young boy walks into the scene clearing the path with his leaf blower.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 139:
+Context: Drinking beer: A man does a barbecue in a yard while singing with people showing drinks in cans and cups. Then people walk to a bar and sing inside drinking beer. Women serves drinks from a fountain. a man 
+Choices:
+  0: talks on front a microphone and people continue singing and showing beer.
+  1: films the men drinking beers through a can and eat.
+  2: then weld and a bartender gives an alcoholic beverage to the worker.
+  3: gives a kiss to a man and then look at a table a woman is using, then a woman shows something white on an tin.
+Model selected: then weld and a bartender gives an alcoholic beverage to the worker.
+Model prediction index: 2
+Correct answer index: 0
+Is correct: False
+--------------------------------------------------
+
+Example 140:
+Context: Drinking beer: Women serves drinks from a fountain. A man talks on front a microphone and people continue singing and showing beer. then 
+Choices:
+  0: , people are again singing, drinking and dancing outdoors.
+  1: , people play soccer, ripping each other's hair.
+  2: , people sit and play foosball and are shown during the show.
+  3: , two men fight sand with an accordion while a man help him pretend.
+Model selected: , people are again singing, drinking and dancing outdoors.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 141:
+Context: Ice fishing: There are people standing on a frozen body of water and are looking into a small hole that has a fishing wire in it and they watch it as it bobs up and down. the standing man 
+Choices:
+  0: gets a brush that is attached to a pole and starts to move and gets a zip line out of that hole.
+  1: pulls the pole and wire up higher and the man kneeling on the ice pulls the fish out of the ice water and puts it onto the ice.
+  2: in red shirt starts to swing on the line and tries hard to get it to catch something and pulls on the wire several times and hangs from it like a seal.
+  3: is on the floating device and is swimming deep under the water, digging around with the pole, while spectators are standing nearby and he extends the fishing wire up to the hole he made before getting pulled under.
+Model selected: pulls the pole and wire up higher and the man kneeling on the ice pulls the fish out of the ice water and puts it onto the ice.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 142:
+Context: Ice fishing: The standing man pulls the pole and wire up higher and the man kneeling on the ice pulls the fish out of the ice water and puts it onto the ice. another man 
+Choices:
+  0: in three suits throws the fish down the lake onto the water while the other man at the lower depth touches the fish.
+  1: lays out the fish on the ice while the audience can't make out a face from their turn.
+  2: is then kneeling on the ice and the men fly up and fly as far as possible.
+  3: takes a picture of the fish, the kneeling man unhooks it and the standing man picks it up, holds it by its gills and poses with it.
+Model selected: takes a picture of the fish, the kneeling man unhooks it and the standing man picks it up, holds it by its gills and poses with it.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 143:
+Context: Playing water polo: Some boys are in the pools playing with volleyballs. there 
+Choices:
+  0: is a boy carrying a metal ball and a black net on the back of his back.
+  1: is a man in a blue suit standing in front of them with a thick rope around his neck.
+  2: is a large swimming team swimming and throwing the ball around to their team mates, scoring.
+  3: is a game going on called soccer being played.
+Model selected: is a man in a blue suit standing in front of them with a thick rope around his neck.
+Model prediction index: 1
+Correct answer index: 2
+Is correct: False
+--------------------------------------------------
+
+Example 144:
+Context: Playing guitarra: A young man sits on a bed. the man 
+Choices:
+  0: then wipes his face.
+  1: gets up and walks towards the camera.
+  2: lifts a shoe to his mouth.
+  3: starts playing an acoustic guitar.
+Model selected: starts playing an acoustic guitar.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 145:
+Context: Canoeing: Two men do maneuvers on a canoe pivoting the canoe helping with the paddlers. Then, the men pivot the canoe away from the bow paddlers while paddling fast the oars. after 
+Choices:
+  0: , one man misses the paddle while paddling.
+  1: , a man sits and maneuver the canoe while other men sit.
+  2: , the men slides the canoe forward using the oars to advance.
+  3: , a man performs different zumba moves in different circumstances.
+Model selected: , one man misses the paddle while paddling.
+Model prediction index: 0
+Correct answer index: 2
+Is correct: False
+--------------------------------------------------
+
+Example 146:
+Context: Canoeing: Then, the men pivot the canoe away from the bow paddlers while paddling fast the oars. After, the men slides the canoe forward using the oars to advance. next 
+Choices:
+  0: , the men flip the canoe and stops at the bow paddlers.
+  1: , the men turn in the air, then they followed the bow paddlers.
+  2: , the men throw the canoe into the water, while one of them holds the paddle with his right hand.
+  3: , the men sail on the river until arrive to the bank of the river.
+Model selected: , the men throw the canoe into the water, while one of them holds the paddle with his right hand.
+Model prediction index: 2
+Correct answer index: 3
+Is correct: False
+--------------------------------------------------
+
+Example 147:
+Context: Skiing: People are standing on a hill of snow. people 
+Choices:
+  0: are working inside a building.
+  1: are sitting in buckets on a blanket on the hill.
+  2: are shoveling snow from the foot of the hill.
+  3: are snowboarding down a hill of snow.
+Model selected: are snowboarding down a hill of snow.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 148:
+Context: Skiing: People are standing on a hill of snow. People are snowboarding down a hill of snow. people 
+Choices:
+  0: are pouring snowballs into tubes as they go down the hill.
+  1: are skiing down a roof of a house.
+  2: are skiing down a hill.
+  3: are standing on a hill holding stick.
+Model selected: are skiing down a hill.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 149:
+Context: Skiing: People are standing on a hill of snow. People are snowboarding down a hill of snow. People are skiing down a hill. the skiiers 
+Choices:
+  0: are skiing down a snowy hill.
+  1: stop at the bottom and talk.
+  2: are holding on to ladders.
+  3: comes to a stop on a hill of snow.
+Model selected: are skiing down a snowy hill.
+Model prediction index: 0
+Correct answer index: 1
+Is correct: False
+--------------------------------------------------
+
+Example 150:
+Context: Layup drill in basketball: A man in an outdoor basketball court explains how to do layup drills with both arms, over hand, underhand, right and left hand layup with two steps. he 
+Choices:
+  0: then demonstrates reading what, by how, you can do the layup over and under hand move with your hands.
+  1: then goes to the hash marks on the court and shows various variations of a layup from various distances and how to do the drills for practice.
+  2: explains about techniques to correct your back and legs rotation on the course and game.
+  3: shows the components of gym holing, how to use the constant need for exercise to renew strength and safety, and explains how to stand before parti balanced positions as the man demonstrates proper use of such suspension.
+Model selected: then goes to the hash marks on the court and shows various variations of a layup from various distances and how to do the drills for practice.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 151:
+Context: Layup drill in basketball: He then goes to the hash marks on the court and shows various variations of a layup from various distances and how to do the drills for practice. he 
+Choices:
+  0: shows how to put a hole in a wall using a drill.
+  1: then comes back to the camera and explains what he did.
+  2: once again changes course and takes a break before continuing to talk to the camera.
+  3: explains this one more time as he walks towards the game area.
+Model selected: then comes back to the camera and explains what he did.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 152:
+Context: Tennis serve with ball bouncing: The man in brown shirt is standing next to a pile of tennis ball while he is talking to the camera. he 
+Choices:
+  0: walked along a beach, talking with people, trying to court a ball.
+  1: started hitting the ball with his racket on his gloved hand.
+  2: pulled out two tennis rackets and toss one to the man and the other's dropped the racket in the air.
+  3: played tennis ball with another person.
+Model selected: started hitting the ball with his racket on his gloved hand.
+Model prediction index: 1
+Correct answer index: 3
+Is correct: False
+--------------------------------------------------
+
+Example 153:
+Context: Tennis serve with ball bouncing: The man in brown shirt is standing next to a pile of tennis ball while he is talking to the camera. He played tennis ball with another person. the man in purple shirt 
+Choices:
+  0: fell on the ground, the man put the ball down, pull the ball and set it on the ground, he ball fell, but remain upright.
+  1: finally dressed in a black shirt walked over and joined the men talking about the tennis racket.
+  2: is playing racket ball while talking to the camera.
+  3: serve the ball while the black man hit the ball back.
+Model selected: is playing racket ball while talking to the camera.
+Model prediction index: 2
+Correct answer index: 3
+Is correct: False
+--------------------------------------------------
+
+Example 154:
+Context: Playing violin: A group of people are sitting in a sauna fully clothed. One guy stands up with a violin. The guy begins playing the violin and dancing. the guy 
+Choices:
+  0: kicks his shoe off while dancing.
+  1: demonstrates how to cut the strings with the violin.
+  2: plays behind a camera.
+  3: finishes and gets up.
+Model selected: kicks his shoe off while dancing.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 155:
+Context: Playing violin: One guy stands up with a violin. The guy begins playing the violin and dancing. The guy kicks his shoe off while dancing. the guy 
+Choices:
+  0: resumes playing the violin.
+  1: stops playing and drops the violin.
+  2: sits down and plays the violin.
+  3: taps his shoe while playing the violin.
+Model selected: resumes playing the violin.
+Model prediction index: 0
+Correct answer index: 2
+Is correct: False
+--------------------------------------------------
+
+Example 156:
+Context: Playing harmonica: The harmonica is held up and shown. a person 
+Choices:
+  0: holds a harmonica between his hands a plays a song.
+  1: is flying through the sky.
+  2: runs up and grabs the guitar, then begins strumming.
+  3: is strumming an electric guitar.
+Model selected: runs up and grabs the guitar, then begins strumming.
+Model prediction index: 2
+Correct answer index: 0
+Is correct: False
+--------------------------------------------------
+
+Example 157:
+Context: Playing harmonica: The harmonica is held up and shown. A person holds a harmonica between his hands a plays a song. the person 
+Choices:
+  0: plays a painting on front a chair.
+  1: finishes the song and holds up the harmonica.
+  2: takes the harmonica out of their mouth and begins playing the piece.
+  3: folds the the harmonica between their legs.
+Model selected: finishes the song and holds up the harmonica.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 158:
+Context: Playing violin: A young man plays the violin on a sidewalk for people passing by in downtown area. two students 
+Choices:
+  0: of swimming are in the swimming pool watching him play the violin.
+  1: play the violin on front people who pass by in street, looking at the violin.
+  2: are playing drums in a park while other people walk past on sidewalk.
+  3: walk by behind the musician while he plays.
+Model selected: walk by behind the musician while he plays.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 159:
+Context: Hand car wash: The camera zooms in to show the car's front right wheel. The camera zooms out to show the man spraying the car with soap. the camera 
+Choices:
+  0: zooms in to the driver side wheel and mimics it.
+  1: shows the man cleaning the car with the brooms.
+  2: zooms in again to show the soap running down the back of the car, then the camera moves to show the left side of the car.
+  3: zooms back out to show the well laid tires.
+Model selected: zooms in again to show the soap running down the back of the car, then the camera moves to show the left side of the car.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 160:
+Context: Hand car wash: The camera zooms in again to show the soap running down the back of the car, then the camera moves to show the left side of the car. then two men 
+Choices:
+  0: appear and one stands next to the car and the other follows behind.
+  1: in the background release, spray paint, cloth, and long sleeves from a car cover.
+  2: spray water on the car to wash the soap off.
+  3: are shown standing next to a woman with fish on a wheel, laughing.
+Model selected: spray water on the car to wash the soap off.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 161:
+Context: Using the rowing machine: A woman in an orange shirt is sitting on an exercise machine. she 
+Choices:
+  0: gets on the machine and starts riding it.
+  1: engages in some form of mount.
+  2: begins working out on the exercise machine.
+  3: is using a dodgeball machine.
+Model selected: gets on the machine and starts riding it.
+Model prediction index: 0
+Correct answer index: 2
+Is correct: False
+--------------------------------------------------
+
+Example 162:
+Context: Kite flying: A person hangs onto the handles of a kite flying overhead. the kite 
+Choices:
+  0: is flying in the air waving to the camera.
+  1: takes off on a bright course.
+  2: falls as the wind lessens.
+  3: moves away as the man is pushed back up by the water.
+Model selected: is flying in the air waving to the camera.
+Model prediction index: 0
+Correct answer index: 2
+Is correct: False
+--------------------------------------------------
+
+Example 163:
+Context: Washing face: People are rowing down a body of water. a guy 
+Choices:
+  0: uses a big paddle to pull people that fall.
+  1: rinses his face with water from the body of water.
+  2: is standing on a rowing machine.
+  3: falls out of his back.
+Model selected: rinses his face with water from the body of water.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 164:
+Context: Hand car wash: A graphic introduces the hand car wash video. the car 
+Choices:
+  0: washes persons hands and wipes them with a blue cloth.
+  1: is washed first gently with soap.
+  2: washes game is displayed.
+  3: washes and a man wearing a blue shirt speaks to the camera.
+Model selected: washes and a man wearing a blue shirt speaks to the camera.
+Model prediction index: 3
+Correct answer index: 1
+Is correct: False
+--------------------------------------------------
+
+Example 165:
+Context: Hand car wash: A graphic introduces the hand car wash video. The car is washed first gently with soap. next 
+Choices:
+  0: is a clean car wash video.
+  1: , two cars slowly drive by.
+  2: , the tires are soaped and washed thoroughly.
+  3: , it is shown from behind.
+Model selected: , the tires are soaped and washed thoroughly.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 166:
+Context: Hand car wash: Next, the tires are soaped and washed thoroughly. After that, the car's engine is steam cleaned. a final spot free rinse 
+Choices:
+  0: is applied and the car is dried.
+  1: is shown and a young female is sucking on a cigarette.
+  2: is taken from under the hood.
+  3: washer is applied and the wash sheet is spread out on the floor.
+Model selected: is applied and the car is dried.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 167:
+Context: Putting on makeup: A woman is seen putting makeup on her face and leads into several pictures of makeup. Many more pictures of products are shown with text across the screen. more pictures of products 
+Choices:
+  0: are shown on the screen leads into a woman putting makeup on herself.
+  1: are shown and ends with the camera shining off into the distance and the woman walking away.
+  2: are shown and ends with a woman hula hooping with herself.
+  3: are shown that end with more text and a woman pushing away makeup.
+Model selected: are shown on the screen leads into a woman putting makeup on herself.
+Model prediction index: 0
+Correct answer index: 3
+Is correct: False
+--------------------------------------------------
+
+Example 168:
+Context: Having an ice cream: There is a woman eating ice cream from a tub and talking to the camera man. and he 
+Choices:
+  0: tells her about some sticky potatoes and she eats them also.
+  1: tries to look into the tub, but she pulls it away.
+  2: is gone doing this all with a in a getting ice cream, while a man else with a stick is also eating from a tub and eating ice cream.
+  3: is holding a baby zumba as they begin dancing around twirling their legs and dancing in tight formation.
+Model selected: tries to look into the tub, but she pulls it away.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 169:
+Context: Having an ice cream: There is a woman eating ice cream from a tub and talking to the camera man. And he tries to look into the tub, but she pulls it away. the camera person 
+Choices:
+  0: continues talking to the social media to find a rich husband in that world.
+  1: is sitting in the bushes watching the woman.
+  2: sits down to continue talking to the woman.
+  3: stops at a jar of liquid in the sink.
+Model selected: sits down to continue talking to the woman.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 170:
+Context: Playing harmonica: A man is shown standing in front of a blue background as many harmonicas are shown and he starts playing them. He is then shown speaking into the camera and going into detail with regards to the products features. he 
+Choices:
+  0: continues talking about the machine while smoking a cigarette in front of the camera.
+  1: continues playing the stereo while detail is shown on the side as the scenes continue to pan in focus and ends with a blow by blow image.
+  2: shows off how many he has in his coat and continues talking.
+  3: is 6'6 " and continues to play with the device throughout the video as well as cutting it back to a man playing polls.
+Model selected: continues talking about the machine while smoking a cigarette in front of the camera.
+Model prediction index: 0
+Correct answer index: 2
+Is correct: False
+--------------------------------------------------
+
+Example 171:
+Context: Playing violin: A violinist is playing the violin in a music room. she 
+Choices:
+  0: adjusts the violin under her chin as she reads the music.
+  1: stops playing the violin and starts to sit up.
+  2: takes a cloth in her hand and prints the sheet music.
+  3: explains the song she is about to play.
+Model selected: adjusts the violin under her chin as she reads the music.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 172:
+Context: Putting in contact lenses: A woman in a suit is talking to a camera. a woman 
+Choices:
+  0: is putting contact lenses into her eyes.
+  1: takes an earring into her nostril.
+  2: puts on hair gel and brushes on her face.
+  3: is giving a tattoo to a man on a bed.
+Model selected: is putting contact lenses into her eyes.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 173:
+Context: Putting in contact lenses: A woman in a suit is talking to a camera. A woman is putting contact lenses into her eyes. contact lenses 
+Choices:
+  0: are shown inside a case onto her nose, inside and outside.
+  1: are shown on a hand.
+  2: are being put into elongated pupil holes.
+  3: are made and put in.
+Model selected: are made and put in.
+Model prediction index: 3
+Correct answer index: 1
+Is correct: False
+--------------------------------------------------
+
+Example 174:
+Context: Running a marathon: A crowd watches as several runners in a race jog past. they all 
+Choices:
+  0: are interviewed by microphones outside.
+  1: stop and change positions as the race starts.
+  2: keep jogging, coming in at the end of the race.
+  3: fall down as they attempt to make the jump.
+Model selected: keep jogging, coming in at the end of the race.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 175:
+Context: Having an ice cream: A small child seated at a table eats ice cream with a spoon while people walk by in the background. a pair of adult hands 
+Choices:
+  0: somebody else time.
+  1: briefly enter the camera frame in the foreground.
+  2: them a carton of milk, estes laughs and their mom feeds the boy.
+  3: him the ice cream cone as the child claps.
+Model selected: briefly enter the camera frame in the foreground.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 176:
+Context: Having an ice cream: A small child seated at a table eats ice cream with a spoon while people walk by in the background. A pair of adult hands briefly enter the camera frame in the foreground. the child 
+Choices:
+  0: inserts her spoon into her ice cream container on the table.
+  1: departs from the camera frame, holding a spoon and shakes it in the air.
+  2: lifts the spoon without touching the liquid on the spoon.
+  3: eats with gusto while dancing and smiling to the camera.
+Model selected: inserts her spoon into her ice cream container on the table.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 177:
+Context: Rollerblading: There's a woman with red colored hair wearing a black tank top and printed black tights skating on roller blades through the streets of a city. the streets 
+Choices:
+  0: showed various advertisements advertised for skate skating.
+  1: are covered hip hop and dressed in purple and red leotards as the individual rhythmically spins around.
+  2: are filled with crowds, people and cars, and she is wearing a white and orange outfit.
+  3: don't have any cars but people are riding bikes or skateboarding.
+Model selected: don't have any cars but people are riding bikes or skateboarding.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 178:
+Context: Rollerblading: There's a woman with red colored hair wearing a black tank top and printed black tights skating on roller blades through the streets of a city. The streets don't have any cars but people are riding bikes or skateboarding. the woman 
+Choices:
+  0: walks past teens riding bmx bikes.
+  1: on the skateboards takes one final turn and then climbs the stairs of a building.
+  2: stops skateboarding and gets out of the skate park and opens a door behind her and takes a cigarette out of her purse.
+  3: swiftly skates through the crowded streets as she passes by several tourists walking leisurely.
+Model selected: stops skateboarding and gets out of the skate park and opens a door behind her and takes a cigarette out of her purse.
+Model prediction index: 2
+Correct answer index: 3
+Is correct: False
+--------------------------------------------------
+
+Example 179:
+Context: BMX: The bikers are biking on the ramp, while on the starting line the group of bikers are in positioned. The small fence was put down the the bikers went bike racing over the big ramps. the spectators 
+Choices:
+  0: are on the side of the tracks.
+  1: flowed around the ends of the ramp, while the people observe and applaud.
+  2: all congratulated the bikers onto the racetrack win.
+  3: are in the crowd so the bike races is continued.
+Model selected: are on the side of the tracks.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 180:
+Context: Ice fishing: A man is kneeling on the ice with another beside hide pulling string out of a hole. they 
+Choices:
+  0: then open the hole with a rod and let the ice out into the ocean.
+  1: use the string to create a sled as they begin sledding through the streets of paris.
+  2: continue to pull the string while the man beside him grabs a hook.
+  3: march the sled back and forth creating holes as they go.
+Model selected: continue to pull the string while the man beside him grabs a hook.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 181:
+Context: Ice fishing: They continue to pull the string while the man beside him grabs a hook. He places the hook near the hole but the man grabs a fish on a string. the fish 
+Choices:
+  0: fizzles and the man drops the hook.
+  1: splashes into the hole bigger and bigger as the others continue to pull the string one by one.
+  2: flops around and the man grabs the fish and holds him up.
+  3: crawls out and the man catches it.
+Model selected: crawls out and the man catches it.
+Model prediction index: 3
+Correct answer index: 2
+Is correct: False
+--------------------------------------------------
+
+Example 182:
+Context: Playing water polo: A group of people wearing swim caps move around a pool and toss a ball around with a man on the sides waving a flag. they 
+Choices:
+  0: play a game of water polo and throw the ball around to each other.
+  1: dive backward into the pool causing it to crest and swim to the edge of the pool.
+  2: continue to throw the object around while holding the hold the fish.
+  3: continue playing with one another in the water and join stand by to watch the game.
+Model selected: play a game of water polo and throw the ball around to each other.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 183:
+Context: Playing water polo: A group of people wearing swim caps move around a pool and toss a ball around with a man on the sides waving a flag. They play a game of water polo and throw the ball around to each other. one 
+Choices:
+  0: throws the ball into the net and causes the people on the side to jump and cheer.
+  1: person wins the game knocking the other one into the water.
+  2: person keeps score and pretends to make a goal.
+  3: jumps through the net and makes it all the way to the other side.
+Model selected: jumps through the net and makes it all the way to the other side.
+Model prediction index: 3
+Correct answer index: 0
+Is correct: False
+--------------------------------------------------
+
+Example 184:
+Context: Layup drill in basketball: We see an image and a title card. We see a man playing basketball. The shot he made is seen in reverse. we 
+Choices:
+  0: see a title and the man appears, shirtless.
+  1: see a gym with teenagers shooting basketball.
+  2: see a stick in the finished basket.
+  3: see the man make his shot and see a title card.
+Model selected: see the man make his shot and see a title card.
+Model prediction index: 3
+Correct answer index: 1
+Is correct: False
+--------------------------------------------------
+
+Example 185:
+Context: Layup drill in basketball: We see a title card on black. A man is shooting basketball in a gym. We see a man dunk the ball twice. we 
+Choices:
+  0: see the ending title card on black.
+  1: see a man flip and throw the ball.
+  2: see man pull back the cup and drop a dart down the grass.
+  3: see a yellow screen and title screen.
+Model selected: see a man flip and throw the ball.
+Model prediction index: 1
+Correct answer index: 0
+Is correct: False
+--------------------------------------------------
+
+Example 186:
+Context: Playing violin: A woman in a dress holding a violin addresses an audience. The woman plays the violin as other musicians look on. the woman 
+Choices:
+  0: finishes playing and sits back.
+  1: finishes playing directly and the audience applauds.
+  2: finishes her playing and everyone applauds.
+  3: pauses to face the audience.
+Model selected: finishes her playing and everyone applauds.
+Model prediction index: 2
+Correct answer index: 2
+Is correct: True
+--------------------------------------------------
+
+Example 187:
+Context: Longboarding: A boy skateboard on a road jumping and flipping the skateboard in the street. a skateboard 
+Choices:
+  0: leans on a tree.
+  1: lands on the road where construction workers are spraying it down, and a boy with sunglasses runs towards the skateboard like a robot.
+  2: is riding on the road on its belly.
+  3: is two of the boys skateboard together.
+Model selected: is riding on the road on its belly.
+Model prediction index: 2
+Correct answer index: 0
+Is correct: False
+--------------------------------------------------
+
+Example 188:
+Context: Longboarding: A boy skateboard on a road jumping and flipping the skateboard in the street. A skateboard leans on a tree. then 
+Choices:
+  0: , the boy slides on the street with his skateboard sticking in the air.
+  1: , gopro jumps, then skateboard on a road.
+  2: , the boy rides on the skateboard with turned legs.
+  3: , the boy skateboard on small ramps and then continues skateboarding in the street.
+Model selected: , the boy slides on the street with his skateboard sticking in the air.
+Model prediction index: 0
+Correct answer index: 3
+Is correct: False
+--------------------------------------------------
+
+Example 189:
+Context: Getting a piercing: A girl is seen laying on a table with a man piercing her belly button below her. the girl 
+Choices:
+  0: laughs at the camera while holding a can of herself and the man.
+  1: holds up a bottle of fluid and puts it on an iv.
+  2: under the belly's cycle begins to milk the tube from the bottle that is in her stomach and pans over to the man piercing her belly button.
+  3: screams in pain and the man finishes her piercing while she looks to the camera.
+Model selected: screams in pain and the man finishes her piercing while she looks to the camera.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 190:
+Context: Hand washing clothes: A young man is washing clothes inside a bathroom sink as he talks to the camera. initially he 
+Choices:
+  0: starts to wash the clothes with both hands.
+  1: shows several different ways to clean a sink during a wash and is seen staring into the camera.
+  2: is demonstrating using two hoses to wash the clothes as he will talk to the camera.
+  3: is going to his locker but resumes washing the shirt.
+Model selected: starts to wash the clothes with both hands.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 191:
+Context: Hand washing clothes: A young man is washing clothes inside a bathroom sink as he talks to the camera. Initially he starts to wash the clothes with both hands. afterwards he 
+Choices:
+  0: adds more soap using two different bottles to the sink.
+  1: washes the other clothes in the sink and several more people walk by.
+  2: shows his face by grimacing due to the stiff air stream and looks in the mirror to change something for his face.
+  3: goes back to using his hands to wash the clothes gradually.
+Model selected: goes back to using his hands to wash the clothes gradually.
+Model prediction index: 3
+Correct answer index: 0
+Is correct: False
+--------------------------------------------------
+
+Example 192:
+Context: Hand washing clothes: Initially he starts to wash the clothes with both hands. Afterwards he adds more soap using two different bottles to the sink. subsequently he 
+Choices:
+  0: keeps washing the clothes as he talks to the camera.
+  1: adds more soap to the washing machine and then proceeds to swirl and rinse the clothes.
+  2: ends by miming drinking the water in the sink.
+  3: grabs fabric to dry the clothes and shows how they fit him comfortably.
+Model selected: adds more soap to the washing machine and then proceeds to swirl and rinse the clothes.
+Model prediction index: 1
+Correct answer index: 0
+Is correct: False
+--------------------------------------------------
+
+Example 193:
+Context: Cutting the grass: A man touches his faces and waves. the man 
+Choices:
+  0: motions for someone in a suit to come and gray their hair.
+  1: in black puts a medal medal around his neck.
+  2: walks a mower across very tall growing grass.
+  3: runs and claps his hands together.
+Model selected: runs and claps his hands together.
+Model prediction index: 3
+Correct answer index: 2
+Is correct: False
+--------------------------------------------------
+
+Example 194:
+Context: Disc dog: We see the title introducing us to jesse. jesse the dog 
+Choices:
+  0: owner shows us how he walks and how he breathes.
+  1: runs and catches frisbee.
+  2: runs in circles where the dog is his mate.
+  3: is shown from a shampoo advertisement one last time.
+Model selected: runs and catches frisbee.
+Model prediction index: 1
+Correct answer index: 1
+Is correct: True
+--------------------------------------------------
+
+Example 195:
+Context: Disc dog: We see the title introducing us to jesse. Jesse the dog runs and catches frisbee. we 
+Choices:
+  0: see an opening title screen.
+  1: see a guy hold a blue frisbee in the air and tell that the dog has a pink frisbee and we see its pink feet.
+  2: see jesse close up in the camera.
+  3: see a violinist doing a piano clip.
+Model selected: see a guy hold a blue frisbee in the air and tell that the dog has a pink frisbee and we see its pink feet.
+Model prediction index: 1
+Correct answer index: 2
+Is correct: False
+--------------------------------------------------
+
+Example 196:
+Context: Disc dog: We see the title introducing us to jesse. Jesse the dog runs and catches frisbee. We see jesse close up in the camera. jesse 
+Choices:
+  0: gives instructions on how to clean a window in a home.
+  1: is running around catching the frisbee the lady throws.
+  2: throws the frisbee and a dog catches it.
+  3: gives us the dog and we see the ending title screen.
+Model selected: throws the frisbee and a dog catches it.
+Model prediction index: 2
+Correct answer index: 1
+Is correct: False
+--------------------------------------------------
+
+Example 197:
+Context: Disc dog: Jesse the dog runs and catches frisbee. We see jesse close up in the camera. Jesse is running around catching the frisbee the lady throws. we 
+Choices:
+  0: see a fish landing into the water.
+  1: see a house in the distance and on the left.
+  2: see the ground in a white screen.
+  3: see five still shots of jesse jumping in the air.
+Model selected: see five still shots of jesse jumping in the air.
+Model prediction index: 3
+Correct answer index: 3
+Is correct: True
+--------------------------------------------------
+
+Example 198:
+Context: Disc dog: Jesse is running around catching the frisbee the lady throws. We see five still shots of jesse jumping in the air. jesse 
+Choices:
+  0: continues to run around with his frisbee.
+  1: is then shown jumping again and we see the men giving each other high fives.
+  2: kicks after the dog while the lady helps.
+  3: immediately shits in pain while having a hard time catching the frisbee.
+Model selected: continues to run around with his frisbee.
+Model prediction index: 0
+Correct answer index: 0
+Is correct: True
+--------------------------------------------------
+
+Example 199:
+Context: Cutting the grass: A first person view is seen of a man riding a riding lawn mower. he 
+Choices:
+  0: takes turns quickly, mowing the lawn.
+  1: creates a large puddle of water and a high rush of water around him as he heads back and forth back and forth.
+  2: moves all around while there is a crowd watching.
+  3: talks about how to properly ride an object while another man climbs up on the back of him.
+Model selected: creates a large puddle of water and a high rush of water around him as he heads back and forth back and forth.
+Model prediction index: 1
+Correct answer index: 0
+Is correct: False
+--------------------------------------------------
+
+Example 200:
+Context: Cutting the grass: A first person view is seen of a man riding a riding lawn mower. He takes turns quickly, mowing the lawn. he 
+Choices:
+  0: continues until the entire yard is mown.
+  1: never stops, trampling the grass and clipping it back.
+  2: moves back and fourth doing several other tasks while looking to the camera.
+  3: backs up slowly to cut the lawn.
+Model selected: backs up slowly to cut the lawn.
+Model prediction index: 3
+Correct answer index: 0
+Is correct: False
+--------------------------------------------------
+

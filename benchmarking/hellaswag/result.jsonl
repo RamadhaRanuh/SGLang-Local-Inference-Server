@@ -1,1 +1,2 @@
 {"task": "hellaswag", "backend": "srt", "num_gpus": 1, "latency": 2.787, "accuracy": 0.64, "num_requests": 200, "other": {"num_questions": 200, "parallel": 64}}
+{"task": "hellaswag", "backend": "srt", "num_gpus": 1, "latency": 3.879, "accuracy": 0.64, "num_requests": 200, "other": {"num_questions": 200, "parallel": 64}}

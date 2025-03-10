@@ -111,6 +111,17 @@ def main(args):
     output_throughput = num_output_tokens / latency
 
     # Print results
+    with open(f"model_outputs_{args.backend}.txt", "w") as f:
+        for i, state in enumerate(states):
+            f.write(f"Question {i+1}:\n")
+            f.write(questions[i] + "\n")
+            f.write(f"Model output: {state['answer']}\n")
+            f.write(f"Expected answer: {lines[i]['answer']}\n")
+            f.write(f"Prediction value: {preds[i]}\n")
+            f.write(f"Correct value: {labels[i]}\n")
+            f.write(f"Is correct: {preds[i] == labels[i]}\n")
+            f.write("-" * 50 + "\n\n")
+
     print(f"Accuracy: {acc:.3f}")
     print(f"Invalid: {invalid:.3f}")
     print(f"Latency: {latency:.3f} s")
