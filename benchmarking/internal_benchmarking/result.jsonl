@@ -1,0 +1,2 @@
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 5.38, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 3.375, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
