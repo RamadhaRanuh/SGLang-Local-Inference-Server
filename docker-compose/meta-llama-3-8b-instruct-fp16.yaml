@@ -13,8 +13,8 @@ services:
     # ports:
     #   - 30000:30000
     environment:
-      HF_TOKEN: <token>
-      # if you use modelscope to download model, you need set this environment
+      HF_TOKEN: <SECRET TOKEN>
+      # if you use modelscope to dwnload model, you need set this environment
       # - SGLANG_USE_MODELSCOPE: true
     entrypoint: python3 -m sglang.launch_server
     command: --model-path meta-llama/Llama-3-8B-Instruct
