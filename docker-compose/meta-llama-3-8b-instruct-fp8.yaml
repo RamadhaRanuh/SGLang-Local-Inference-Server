@@ -13,7 +13,7 @@ services:
     # ports:
     #   - 30000:30000
     environment:
-      HF_TOKEN: <SECRET TOKEN>
+      HF_TOKEN: ${HF_TOKEN}
       # if you use modelscope to download model, you need set this environment
       # - SGLANG_USE_MODELSCOPE: true
     entrypoint: python3 -m sglang.launch_server
