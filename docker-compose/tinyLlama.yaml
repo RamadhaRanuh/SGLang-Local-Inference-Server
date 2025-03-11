@@ -13,11 +13,11 @@ services:
     # ports:
     #   - 30000:30000
     environment:
-      HF_TOKEN: <secret>
+      HF_TOKEN: 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
       # if you use modelscope to download model, you need set this environment
       # - SGLANG_USE_MODELSCOPE: true
     entrypoint: python3 -m sglang.launch_server
-    command: --model-path meta-llama/Llama-3.1-8B-Instruct
+    command: --model-path TinyLlama/TinyLlama-1.1B-Chat-v1.0
       --host 0.0.0.0
       --port 30000
     ulimits:
