@@ -1,4 +1,9 @@
 {"task": "llm_judge", "backend": "srt", "num_gpus": 1, "latency": 41.882, "num_requests": 16, "other": {"num_questions": 16, "parallel": 1}}
 {"task": "llm_judge", "backend": "srt", "num_gpus": 1, "latency": 14.208, "num_requests": 25, "other": {"num_questions": 25, "parallel": 8}}
 {"task": "llm_judge", "backend": "srt", "num_gpus": 1, "latency": 10.812, "num_requests": 25, "other": {"num_questions": 25, "parallel": 8}}
+<<<<<<< HEAD
 {"task": "llm_judge", "backend": "srt", "num_gpus": 1, "latency": 28.441, "num_requests": 20, "other": {"num_questions": 20, "parallel": 8}}
+=======
+{"task": "llm_judge", "backend": "srt", "num_gpus": 1, "latency": 9.454, "num_requests": 25, "other": {"num_questions": 25, "parallel": 8}}
+{"task": "llm_judge", "backend": "srt", "num_gpus": 1, "latency": 8.356, "num_requests": 25, "other": {"num_questions": 25, "parallel": 8}}
+>>>>>>> ed0dc8a5a378ceffe6df848608b9e2296506fc46
