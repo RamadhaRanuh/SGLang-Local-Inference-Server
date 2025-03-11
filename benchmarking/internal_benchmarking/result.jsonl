@@ -1,2 +1,20 @@
 {"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 5.38, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
 {"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 3.375, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 3.537, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 2.652, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 4.147, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 4.264, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 4.189, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 0.002, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 4.541, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 2.769, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 2.756, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 3.517, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 5.727, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 4.329, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 4.333, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 5.907, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 4.074, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 5.625, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 3.114, "p90_ttft": 1.782, "tps": 358.1, "num_requests": 1, "other": {"num_documents": 1, "parallel": 64}}
+{"task": "prd_review", "backend": "srt", "num_gpus": 1, "latency": 3.029, "p90_ttft": 1.763, "tps": 352.9, "num_requests": 1, "other": {"num_documents": 1, "parallel": 8}}

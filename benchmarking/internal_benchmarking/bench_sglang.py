@@ -9,15 +9,15 @@ from sglang.test.test_utils import (
 )
 from sglang.utils import dump_state_text, read_jsonl
 
-system_prompt = "You are an expert in creating software Product Requirement Document. Please provide constructive criticism and suggest improvements for the attached PDF."
+system_prompt = "You are an expert in creating software Product Requirement Document. Please provide constructive criticism and suggest improvements for the attached PDF. Be concise and limit your total output to approximately 1000 tokens."
 
 review_dimensions = [
-    "Structure and Organization: Assess the document's overall structure, section organization, and flow. Check if the requirements are logically grouped and presented in a clear hierarchy.",
-    "Completeness: Evaluate whether the PRD includes all necessary sections (overview, features, user stories, acceptance criteria, etc.) and if each requirement is fully specified.",
-    "Clarity and Specificity: Examine how clear and specific the requirements are. Requirements should be unambiguous and leave no room for interpretation.",
-    "Consistency: Check for inconsistencies in terminology, formatting, and requirements throughout the document.",
-    "Testability: Assess if the requirements are written in a way that makes them testable. Can you easily determine if a requirement has been met?",
-    "Prioritization: Evaluate how well requirements are prioritized. Are must-have features clearly distinguished from nice-to-have ones?",
+    "Structure and Organization: Assess the document's overall structure, section organization, and flow. Check if the requirements are logically grouped and presented in a clear hierarchy. <MAXIMUM TOKEN: 100>",
+    "Completeness: Evaluate whether the PRD includes all necessary sections (overview, features, user stories, acceptance criteria, etc.) and if each requirement is fully specified. <MAXIMUM TOKEN: 100>",
+    "Clarity and Specificity: Examine how clear and specific the requirements are. Requirements should be unambiguous and leave no room for interpretation. <MAXIMUM TOKEN: 100>",
+    "Consistency: Check for inconsistencies in terminology, formatting, and requirements throughout the document. <MAXIMUM TOKEN: 100>",
+    "Testability: Assess if the requirements are written in a way that makes them testable. Can you easily determine if a requirement has been met? <MAXIMUM TOKEN: 100>",
+    "Prioritization: Evaluate how well requirements are prioritized. Are must-have features clearly distinguished from nice-to-have ones? <MAXIMUM TOKEN: 100>",
 ]
 
 
@@ -35,7 +35,7 @@ def prd_review(s, document):
             + "Focus only on this dimension and be concise. "
             'End your review with the word "END"\nASSISTANT:'
         )
-        forks[i] += sgl.gen("feedback", max_tokens=256, stop="END")
+        forks[i] += sgl.gen("feedback", max_tokens=160, stop="END")
     forks.join()
 
     s += "I'll provide a comprehensive review of this PRD based on several key dimensions:\n\n"
@@ -68,8 +68,44 @@ def main(args):
         num_threads=args.parallel,
         progress_bar=True,
     )
+    # Run requests with manual timing
+    ttfts = []
+    total_tokens = 0
+    tic = time.time()
+    
+    # You might need to run the requests individually to measure TTFT
+    states = []
+    for arg in arguments:
+        start_time = time.time()
+        state = prd_review.run(
+            document=arg["document"],
+            temperature=0,
+            backend=backend,
+        )
+        first_token_time = time.time() - start_time  # This is approximate
+        ttfts.append(first_token_time)
+        states.append(state)
+        #print(f"State type: {type(state)}")
+        #print(f"State attributes: {dir(state)}")
+        text_content = state.text()
+        total_tokens += len(text_content.split())
+        
     latency = time.time() - tic
 
+    # P90 TTFT
+    ttfts.sort()
+    p90_ttft = ttfts[int(len(ttfts) * 0.9)] if ttfts else 0
+
+    # TPS
+    total_tokens = 0
+    for state in states:
+        text_content = state.text()
+        total_tokens += len(text_content.split())
+    
+    tps = total_tokens / latency if latency > 0 else 0
+
+    print(f"P90 TTFT: {p90_ttft:.3f}")
+    print(f"TPS: {tps:.3f}")
     print(f"Latency: {latency:.3f}")
 
     # Write results
@@ -83,6 +119,8 @@ def main(args):
             "backend": args.backend,
             "num_gpus": 1,
             "latency": round(latency, 3),
+            "p90_ttft": round(p90_ttft, 3),
+            "tps": round(tps, 1),
             "num_requests": len(arguments),
             "other": {
                 "num_documents": args.num_documents,
